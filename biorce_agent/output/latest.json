@@ -1,0 +1,36 @@
+{
+  "week": "2026-03-27",
+  "generated_at": "2026-03-27T12:28:04.640586Z",
+  "top_3": [
+    {
+      "rank": 1,
+      "urgency": "high",
+      "competitor": "PhaseV",
+      "segment": "Protocol Design",
+      "what_happened": "PhaseV unveiled a centralized AI platform for clinical trial automation and brought integrated AI for faster clinical trials to the global stage in March 2026.",
+      "why_it_matters": "Direct competitor launching integrated AI automation for protocol design and trial acceleration\u2014a core Biorce differentiator. PhaseV's timing and broad positioning threaten Aika's market entry window.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDRRX2tkdk1XMXM0S0ZSbVlibkx0ZzRHbWtsTDFDdEdGdWhPd2RWY0JsZWNxM3ZOQmdJT3ZvN2Jwa0Y3dFcxOXhyc1FQaHVaM0ktb01XNkwyWTlQaVNyemxXUDAxeDhhZkl1bXBKUF8xVEFlZjFiMkdLSGZRR1hENUI1Vk02dnZ6dG1rUFUtM0R5Z3EwZzRyejJoaUtVdFhMd1hQN3JqQXAtUkxjQ21HdHRxTjVtX0RUc0pETWU3N2l4Wko2X3lCRFZWRVY",
+      "action_suggested": "Immediately analyze PhaseV's technical approach, explainability claims, and regulatory positioning. Assess product differentiation and prepare competitive messaging emphasizing Biorce's 100% explainable AI vs. potential black-box limitations."
+    },
+    {
+      "rank": 2,
+      "urgency": "high",
+      "competitor": "Phesi",
+      "segment": "Protocol Design",
+      "what_happened": "Phesi won an Innovation Award for AI-enabled trial simulation and is positioned as a market leader in the $18.62B AI clinical trials market by 2040 alongside IQVIA, Medidata, IBM Watson, and Oracle.",
+      "why_it_matters": "Phesi's market recognition and award visibility establish it as a credible protocol design competitor with proven trial simulation capabilities, directly competing for pharma mindshare in protocol optimization.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNWk85aW9UNzhkcFFJNGdVOEpueHdOUmZ2Wlg2VFpOckw2b05sNjdfVUlvRjZjaV9zRXBNS3BMRDFjd0M2ZDBXeDkyeGZBUDFVNHJDeUo0T3Q1TkJZMDdEWEZkRkFidGlRQXdQREtBM3JiMjViejRsQkQ0TzRaREE4YUl5RmFjWjNyU0dINjBoQlBFWm1DdlNRTU42WTlfYzM0R1A2ZThMQ3IwZ18ySnJmZHFlRFBjOVUzYnh2d3ItUFU0YVAtSldXLXg3czdlX1hVbnhQQS1Qb3FUaXRjQUNZX3I4bEV5dTRtU0xiYzNVd044UlhGTXZ3aFVGS2RJSUU3SGJTbXV5UHNhSmVDbkc1V2tMYjAtckpBV2VuNm1keXdEQ2I2TEt1czQ4MEVvYWotRDZaOEFuM19OY2YteVRUVUNIekR6a0k5R2swMEs4ZGlqN2NzSVNoOVY5aDMtb3h3b1JUeWNtamM2VU5p",
+      "action_suggested": "Monitor Phesi's specific trial simulation methodology and validation data. Prepare case studies demonstrating Aika's explainability advantages in protocol design and regulatory submission contexts."
+    },
+    {
+      "rank": 3,
+      "urgency": "medium",
+      "competitor": "Unlearn.AI",
+      "segment": "Protocol Design",
+      "what_happened": "Unlearn.AI announced two new pharma partnerships (VectorY Therapeutics PIONEER-ALS study and SOLA Biosciences) leveraging AI-generated digital twins for trial support.",
+      "why_it_matters": "Unlearn's expanding pharma partnerships validate digital twin/simulation approaches for clinical trials, positioning a complementary but competitive methodology to Aika's protocol design focus.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN3JsWi1lNEFyTmRFekZucDk5R2hZN1NpdzFIRUw1NHdXaDlzT0lQb2ZCSHdFY1BhMXZYOGNzRlVqemxkZWo0ZjhNbEotcGhFcjNlUzhDR2I2WDFjQlp3MFpwRTVGRUFobFZBQmRMbVFmYXdQRHJocUFuQjZlcHVwbENDeXJmUEtRZUVnZHd1WWFqcjhHT1Jhd1hhZHhBaXhNU0ZENmVqZHFwc0lIWS1sOFJteUhVNENPY3ZmbVNZeGJwQ0duOGVaYS1PTzJ4MVB0T0haWk5jWjZnc0N0MG9hZWhtcjk",
+      "action_suggested": "Research Unlearn's explainability claims and validation evidence. Differentiate Aika's regulatory-ready explainability from Unlearn's digital twin approach in pharma outreach."
+    }
+  ]
+}
