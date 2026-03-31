@@ -3982,5 +3982,1262 @@
         "description": "Koneksa\u2019s $45 million round could help make at-home clinical trials a reality&nbsp;&nbsp;TechCrunch"
       }
     ]
+  },
+  {
+    "run_date": "2026-03-31",
+    "total_signals": 139,
+    "signals": [
+      {
+        "competitor": "Trials.ai (ZS)",
+        "segment": "Protocol Design",
+        "focus": "Franklin, AI for protocol design decisions and study design optimization",
+        "title": "ZS to Acquire Intelligent Study Design Company Trials.ai - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXVsNTFCbG93MFVXZVFWUHNoMzM3endON3VvX2p6eGpzRXlTZmFyY0dsNEcyYTY3c3N5LTVKajVGMHM1bjRLLWlUcV95alpuOUFERXE4M1E4RXRuOUJMVzhaWFJFVDE1dlJYaXZkanZHeFVjSGhadWNDdXQ2NWwteVRGU1JkYngxMFFDbUVqUVV4UlhNM0k2bXlMU1hQc1JMQ2l4c1lqR3YxV0xxeXpmWjdpaw?oc=5",
+        "date": "Mon, 06 Feb 2023 08:00:00 GMT",
+        "description": "ZS to Acquire Intelligent Study Design Company Trials.ai&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "Phesi",
+        "segment": "Protocol Design",
+        "focus": "Protocol optimization and feasibility prediction using historical trial data",
+        "title": "AI in Clinical Trials Market Research 2026: Market to Reach $18.62 Billion by 2040 with IQVIA, Medidata, IBM Watson, Oracle, and Phesi Leading Through Integrated Data and Patient Matching Platforms - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNWk85aW9UNzhkcFFJNGdVOEpueHdOUmZ2Wlg2VFpOckw2b05sNjdfVUlvRjZjaV9zRXBNS3BMRDFjd0M2ZDBXeDkyeGZBUDFVNHJDeUo0T3Q1TkJZMDdEWEZkRkFidGlRQXdQREtBM3JiMjViejRsQkQ0TzRaREE4YUl5RmFjWjNyU0dINjBoQlBFWm1DdlNRTU42WTlfYzM0R1A2ZThMQ3IwZ18ySnJmZHFlRFBjOVUzYnh2d3ItUFU0YVAtSldXLXg3czdlX1hVbnhQQS1Qb3FUaXRjQUNZX3I4bEV5dTRtU0xiYzNVd044UlhGTXZ3aFVGS2RJSUU3SGJTbXV5UHNhSmVDbkc1V2tMYjAtckpBV2VuNm1keXdEQ2I2TEt1czQ4MEVvYWotRDZaOEFuM19OY2YteVRUVUNIekR6a0k5R2swMEs4ZGlqN2NzSVNoOVY5aDMtb3h3b1JUeWNtamM2VU5p?oc=5",
+        "date": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "description": "AI in Clinical Trials Market Research 2026: Market to Reach $18.62 Billion by 2040 with IQVIA, Medidata, IBM Watson, Oracle, and Phesi Leading Through Integrated Data and Patient Matching Platforms&nb"
+      },
+      {
+        "competitor": "Phesi",
+        "segment": "Protocol Design",
+        "focus": "Protocol optimization and feasibility prediction using historical trial data",
+        "title": "Phesi\u2019s Trial Accelerator Wins the Innovation Award for AI-Enabled Trial Simulation in Clinical Trials - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kRFFhYjJIWU4tQ0d6S2JqZ0VTOW1JRFZ3Y0x0dnZvZk9taG9TWENFN1gwQnR0Mm1kY0Fxd2xiUFJWekJUQUJKMHVnZUJWZzZKdE51MF9xUFYzc3BqWXZGSmpBTHBXYVdlaWp5Z09WNnJ0dw?oc=5",
+        "date": "Mon, 01 Dec 2025 23:01:33 GMT",
+        "description": "Phesi\u2019s Trial Accelerator Wins the Innovation Award for AI-Enabled Trial Simulation in Clinical Trials&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Phesi",
+        "segment": "Protocol Design",
+        "focus": "Protocol optimization and feasibility prediction using historical trial data",
+        "title": "Phesi CEO on why phase 3 clinical trials fail - R&D World",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFQzWHFIaU9SZzBURUs1N1duM19NbXkwV043YWYyZ3lSVnZiNDg2ZkNWRjYtNWJBcFktMTRoSG5wM3dVd0FyUFhxRmtzNjR1MlU5NVZKQk5Tb3VyZkJBaWtkMVl3dHNCMURoTEphNVpOX1ZVWWN3S2poNnNBTDFmY3ln?oc=5",
+        "date": "Wed, 30 Jul 2025 07:00:00 GMT",
+        "description": "Phesi CEO on why phase 3 clinical trials fail&nbsp;&nbsp;R&D World"
+      },
+      {
+        "competitor": "Cytel",
+        "segment": "Protocol Design",
+        "focus": "Adaptive trial design, simulations, Bayesian methods",
+        "title": "Cytel Ushers in New Era of Optimized Clinical Trial Design with Launch of Solara\u2122 - Lab Manager",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzlxRzgtcG1nNmtPdUlKaEdCM19EV01TOHV1TS1lZm9mODNkZnIweVZibTFaR1ZwZjJmRU1RTjI2TmFQbTZoU2VPMnUyMmZ0N2syOWd2cTc3dWowdXNUbnNSa0tqWHpNWTZpTUk0RW1BdXd4WXY0NzdUX1BjZzVCZFdielVXSWhwZnBQbjRuQ2tKWlU0cF81TUVPZGNLTGhoNTB6Y3Yyd1Z4bXpGbUtIeVVDOA?oc=5",
+        "date": "Thu, 08 Jan 2026 08:00:00 GMT",
+        "description": "Cytel Ushers in New Era of Optimized Clinical Trial Design with Launch of Solara\u2122&nbsp;&nbsp;Lab Manager"
+      },
+      {
+        "competitor": "Cytel",
+        "segment": "Protocol Design",
+        "focus": "Adaptive trial design, simulations, Bayesian methods",
+        "title": "Cytel Partners with Nested Knowledge to Power the Next Generation of AI-Enhanced LiveSLR\u00ae for HEOR and HTA - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2V0UmVFQmtQRllaSHNjUGE0WHhkdXhweXZEdDJGRW80d2xUQkV6Tkl5dzR1bUhBazI0QUN4ZFRhRlVIMloyajRjc1A5Q1hfTkxsTHhZYTkwRzg5WUJmQzNDMEp5MmFaaWhaekdDd1hCMHc3MWF1OFk4OE9nRUV4RTJaLXJRdk1ONWNJ?oc=5",
+        "date": "Fri, 09 May 2025 07:00:00 GMT",
+        "description": "Cytel Partners with Nested Knowledge to Power the Next Generation of AI-Enhanced LiveSLR\u00ae for HEOR and HTA&nbsp;&nbsp;finance.yahoo.com"
+      },
+      {
+        "competitor": "Cytel",
+        "segment": "Protocol Design",
+        "focus": "Adaptive trial design, simulations, Bayesian methods",
+        "title": "Nordic Capital acquires majority stake in Arcadia - MobiHealthNews",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT25PSjY3bXNlSGtSZ1hPV1BTR1Qya0QtU0dQVnJuOWJIOUVYam1uMHpvVDllTUxTWHo2WDZ3ekJmZXRPVElSek96elU2alRmN0VZWUt5blQyT0ZTQzlpWWI3UkJfOFBqUVpuQzVHeVlMVWpfVmhIcVktQ1NybTljSk1TcUU3eFpacVE?oc=5",
+        "date": "Wed, 02 Jul 2025 07:00:00 GMT",
+        "description": "Nordic Capital acquires majority stake in Arcadia&nbsp;&nbsp;MobiHealthNews"
+      },
+      {
+        "competitor": "Certara",
+        "segment": "Protocol Design",
+        "focus": "Regulatory and trial design modeling, biosimulation",
+        "title": "Certara Details 2026 Outlook at Leerink Conference as Software Bookings Slow, AI Push Builds - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOXzVMSXkyLTNmUFJVNE40djJKTGRXUXBWeTJzYWFqNDQ0V1BTQU52X1M5US10SlRFaWl5S0RubXJHc1VhNFJwb3hjc3pGSXZKX2VhR2dxb1padFdRVkRiS2YxcHVhTktuS0xoN2liNzV6Y0R0RHdOM3RreVdRQVVQZGtlQ1F1YnFpQ2Q4V2RaQlA2T1phZWhmWFZwNjRDN1hWSy1SSnVqeHBiNURCd0FwV3lzU3ZCek0yMFdKTE5Jb1VoUkxoYTh0eXpFVHRlWTFpVENhTFlfc0hlbG16RVE?oc=5",
+        "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "description": "Certara Details 2026 Outlook at Leerink Conference as Software Bookings Slow, AI Push Builds&nbsp;&nbsp;MarketBeat"
+      },
+      {
+        "competitor": "Certara",
+        "segment": "Protocol Design",
+        "focus": "Regulatory and trial design modeling, biosimulation",
+        "title": "The data fragmentation problem holding drug discovery back - Drug Target Review",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTJwbUV4U3h2M2FSOWVMbVRlQkJHT0VFc3R3LWR4WHI5TnljYUtTVDZTRFV6ck1INllFRWdCY2dWRE41WnNiZTZEa0xQbEZ3ZmkxTWJaZmNqbnpBSnhvYmpzWEx0Zm1wUnNnanhiMTFURWJFOFdXdzBUUG1OV21mX0RNU1ROT2hwNGF6QlNpNENBYzRSbTZWbWg5eDFXSUc5ZTRTejMwNlA2eWM?oc=5",
+        "date": "Mon, 05 Jan 2026 08:00:00 GMT",
+        "description": "The data fragmentation problem holding drug discovery back&nbsp;&nbsp;Drug Target Review"
+      },
+      {
+        "competitor": "Certara",
+        "segment": "Protocol Design",
+        "focus": "Regulatory and trial design modeling, biosimulation",
+        "title": "How Certara turned the FDA\u2019s surprising decision on animal testing into a launchpad for innovation - Technical.ly",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93eFNHNk9zbC1US0dWMUZ1RDQ5T3NmVk9MWFlxUGJOTkxVcGg1c0NPcUtFZlRQTWRuTEp5bmZjcWxIYVRLaUFpbkFncEg1V25VdjFOLVhvOGNsbDQ4Wi1YaFB1cmxiRkU1UFlxRDJOdU5jM0U4b082VTNB?oc=5",
+        "date": "Thu, 06 Nov 2025 08:00:00 GMT",
+        "description": "How Certara turned the FDA\u2019s surprising decision on animal testing into a launchpad for innovation&nbsp;&nbsp;Technical.ly"
+      },
+      {
+        "competitor": "Unlearn.AI",
+        "segment": "Protocol Design",
+        "focus": "Digital twins to reduce control groups, synthetic patient data",
+        "title": "Unlearn Advances Huntington's Disease AI Modeling Through Access to CHDI Foundation Data - newswire.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVhydXQzdWd5WE01VjBWNzQzVkJpZ1ZXNmcydHg0THJnN2dRRmVMUnl5VXpvMEZvVkU1clF5R2xQZTVQR1pERDdFUXR0M09tamRXTXlDaXdiUkhNX29BelY5cW45UzZpeTlkMC1YZmVrYnFVWG56VmJpUHg5YXhKcl9FU2xpMXhQMlRvNHVqbWdFQWRjeUZuMFJ0aHR4dGtEQVFUQmNOWl8?oc=5",
+        "date": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "description": "Unlearn Advances Huntington's Disease AI Modeling Through Access to CHDI Foundation Data&nbsp;&nbsp;newswire.com"
+      },
+      {
+        "competitor": "Unlearn.AI",
+        "segment": "Protocol Design",
+        "focus": "Digital twins to reduce control groups, synthetic patient data",
+        "title": "The Future Of Drug Trials Might Be Virtual AI Patients - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU0dCU3dPcFFZSjVTRHc5NHlGT3FxamdCU1NZSHA0SWRDYWtEYmpoZU4ydDhOcDlXV2Z4R0VEa0hoanVNRlBYZ2pLV3dkazgxRnpJWEJ2Zi15OUpOcF9fZERabnNRUV8zLUlvWTI3cjlXSUtITUdZMm9KcE8yYXFRaVZDakZqUGN3RkRuWGtfSHRYQ0JmMWFOWEllQ3ZSbDdRY2dwbjRDR05Vcm0ySFlF?oc=5",
+        "date": "Tue, 03 Jun 2025 07:00:00 GMT",
+        "description": "The Future Of Drug Trials Might Be Virtual AI Patients&nbsp;&nbsp;Forbes"
+      },
+      {
+        "competitor": "Unlearn.AI",
+        "segment": "Protocol Design",
+        "focus": "Digital twins to reduce control groups, synthetic patient data",
+        "title": "Dr. Robert Lenz Joins Unlearn as Strategic Advisor - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWDE0eVEyYlJabmsxbEIyTlQyOGM4d3RoYjMyeWNHUk94N2cwOGwxUHQ4NUN6SS15WXplR09RWUFUaFpnb3Q5WWFPcmlRYURjaFBfbmo5YXJGTEZPMElTLVNmRFdtVl83UkdsMUlQMGxZUVY5NlVqZTJXN0w0YjA?oc=5",
+        "date": "Thu, 25 Sep 2025 07:00:00 GMT",
+        "description": "Dr. Robert Lenz Joins Unlearn as Strategic Advisor&nbsp;&nbsp;finance.yahoo.com"
+      },
+      {
+        "competitor": "PhaseV",
+        "segment": "Protocol Design",
+        "focus": "AI/ML for trial design, site selection, subgroup analysis",
+        "title": "PhaseV Bringing Integrated AI for Faster Clinical Trials to the Global Stage - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDRRX2tkdk1XMXM0S0ZSbVlibkx0ZzRHbWtsTDFDdEdGdWhPd2RWY0JsZWNxM3ZOQmdJT3ZvN2Jwa0Y3dFcxOXhyc1FQaHVaM0ktb01XNkwyWTlQaVNyemxXUDAxeDhhZkl1bXBKUF8xVEFlZjFiMkdLSGZRR1hENUI1Vk02dnZ6dG1rUFUtM0R5Z3EwZzRyejJoaUtVdFhMd1hQN3JqQXAtUkxjQ21HdHRxTjVtX0RUc0pETWU3N2l4Wko2X3lCRFZWRVY?oc=5",
+        "date": "Thu, 26 Mar 2026 12:30:00 GMT",
+        "description": "PhaseV Bringing Integrated AI for Faster Clinical Trials to the Global Stage&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "PhaseV",
+        "segment": "Protocol Design",
+        "focus": "AI/ML for trial design, site selection, subgroup analysis",
+        "title": "PhaseV debuts AI tool for clinical trial automation - bioxconomy.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW11ODA1RU9rYk41WmV0SHA1UmlxMjd1b3dZOXJITFhSdm9mVUZvUGlma2dtX28xU2xXeG9nZVpjRjUwWWpWZEY5Qlpvb2tfaEZRTFdNTkFtTTFFR0VMTkUtLXNuQ1hWUHpSVjBhcFdqV2UxNkc1TjhpQkRVcDRYendrX0FxZE01enZWc1FDYVc2aTJQQXBVTHFwUUZGOWtoQzFJcg?oc=5",
+        "date": "Thu, 26 Mar 2026 02:51:17 GMT",
+        "description": "PhaseV debuts AI tool for clinical trial automation&nbsp;&nbsp;bioxconomy.com"
+      },
+      {
+        "competitor": "PhaseV",
+        "segment": "Protocol Design",
+        "focus": "AI/ML for trial design, site selection, subgroup analysis",
+        "title": "PhaseV unveils centralised platform to automate clinical trials - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUs0ZUd6WHVsUEJ4Y25iMjJEX1BzZkRrT21zTnhKNVMxVWxpS2hyRl9VUjNwVFFISjh6T2U3Nm1ycWN3N2QtYXVWR1hCRm4tQXR5a0NXQWV6bEg4ZXRaTmRNMi1vNjlrcGQ0NTFmcUgtelFua0xXbXlQcUpMTWpsQ0ZyZ2MxMlltclFrd1pR?oc=5",
+        "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+        "description": "PhaseV unveils centralised platform to automate clinical trials&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Formation Bio",
+        "segment": "Protocol Design",
+        "focus": "AI for clinical-stage drug development optimization",
+        "title": "AI Could Reshape Clinical Trials\u2014and the Business of Pharma - Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51cUw4cHk5dXBJVkVlSHlXbVlRR21QeEVuU09vRnp5T0laNmYtdi1JSnFDcjk0V2EyQTduS2lHWlVqQUpBMTVwcm5QaTRQbHd6RldNSFltU2wtX3NoTVE?oc=5",
+        "date": "Fri, 06 Feb 2026 08:00:00 GMT",
+        "description": "AI Could Reshape Clinical Trials\u2014and the Business of Pharma&nbsp;&nbsp;Time Magazine"
+      },
+      {
+        "competitor": "Formation Bio",
+        "segment": "Protocol Design",
+        "focus": "AI for clinical-stage drug development optimization",
+        "title": "Formation Bio's China shopping spree continues with $500M biobucks autoimmune pact - fiercebiotech.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2FGbUNOY2Q5UWRoV3NUUm15Sm5aNVZ6dWFhRlI1dVJYM21rb0RMN1lPOE1ac2pENVZrZ2JraTRtRDUtUjJkSXh0bzNkOUc0OGkxS3VnS0JTNGdUcnBCWENtcGJEZ21IUi1kSkNMYkljZXNVT1ZGeERGMkNKQ2ZPcG9ZdE9ablRxenhtLTdlRnc4REpZRk9GMDN6eEM5d2hLZzlsSlRFckNhSjhSNVJ2UUc1dw?oc=5",
+        "date": "Thu, 29 Jan 2026 08:00:00 GMT",
+        "description": "Formation Bio's China shopping spree continues with $500M biobucks autoimmune pact&nbsp;&nbsp;fiercebiotech.com"
+      },
+      {
+        "competitor": "Formation Bio",
+        "segment": "Protocol Design",
+        "focus": "AI for clinical-stage drug development optimization",
+        "title": "Formation Bio Licenses First-in-Class Anti-CD226 Autoimmune Program from IMIDomics - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYkpoSGstUmJIel9jNG9aUlZjVEFKcW9MSFdhM1hRRHhLbFBER1JJa3g5UDRMQ0ExdlM0ak8zdURrYV9ESzQ4eTY2cVFuemNhdy00VDNZQ0h4ajBVNUZxU0RSa3lNSjhJeG5lYmRfYlNiQ01zdDFxc0lfcVphcTctQWYtUGxEZVgyZjFQS0lkaVN5c2JENzE4MFdMTWtzdzN1d2dOcVZqdUtsWUdDWE9oZUFOQ0VrZjhPNjdlbFNlSzVybHFrenN2NkstaHB5RUtqb2ZDSA?oc=5",
+        "date": "Tue, 29 Jul 2025 07:00:00 GMT",
+        "description": "Formation Bio Licenses First-in-Class Anti-CD226 Autoimmune Program from IMIDomics&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "Risklick",
+        "segment": "Protocol Design",
+        "focus": "AI trial feasibility scoring and success prediction",
+        "title": "Swiss startup Risklick launches AI-based software for medical device clinical trials - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2dZdkRxZVVWOFdWcWNkZDJMZmdlNThwOGNYUFM2UENSaWFEVmxZbEtCOFpHYnZheE1sYnJ1OUIwUDBnU3E0cXdWRERWZmVOTzNyZkY2RTh4LVZHUGdjVGp0Mjk4ZUc2b0owdjdGYkVMcWIxYTJhQzhjc2FFNk9LNVd6Q2VGckRpMlVRVnRfR2hGTGRzUXNZc3hrbjh2VmFxdlBSSEVCV0s1dnhZOElydUZwa0kydnZHQzRKLXpfekNQRGxhOGgwX2NSSzJ2alBTWnp6blNUWQ?oc=5",
+        "date": "Wed, 22 Jan 2025 08:00:00 GMT",
+        "description": "Swiss startup Risklick launches AI-based software for medical device clinical trials&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "Risklick",
+        "segment": "Protocol Design",
+        "focus": "AI trial feasibility scoring and success prediction",
+        "title": "Risklick debuts new AI software that writes clinical trial protocols - fiercebiotech.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFo1ODJKOERLV2lzcmZ2cWJHXzJGOHMtbDFQZ2tkUzM2czNzd1M0YTNFdjR1MXEwRjBGN0tkSm45eW1nVnpaZzlfWVhGVXJ2WGpCNnZHcXpiVkhoaWdCb1B2RG0zOFh2WU9tRjc3bklROGdVTFUtWDdIdzUyTm5aMDdtcW1aTmRMNzVGWjVWdUtuMFlnM2Z0cjBieV80dw?oc=5",
+        "date": "Thu, 25 Apr 2024 07:00:00 GMT",
+        "description": "Risklick debuts new AI software that writes clinical trial protocols&nbsp;&nbsp;fiercebiotech.com"
+      },
+      {
+        "competitor": "Risklick",
+        "segment": "Protocol Design",
+        "focus": "AI trial feasibility scoring and success prediction",
+        "title": "UniBe spin-off Risklick unveils AI tool to streamline clinical trials - Greater Geneva Bern area",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3JkV0gyUVd2aVRIdWhWa09jbmF4R1o2UEVJeGZnNnlJVnltbjlwT25vVWVQd2JYMkJibEFKZGUwX3RMcUZ4dFNoZ2JMLUM2TGlFSGthTGZWb0JvUWlabGNKbWFwc2VhWWFfNU54dzBLWE1YdURLbHlvVDFEamk4VU9YVkZHM2pjU3RRdTc4amZCTVVQZ1NN?oc=5",
+        "date": "Mon, 29 Apr 2024 07:00:00 GMT",
+        "description": "UniBe spin-off Risklick unveils AI tool to streamline clinical trials&nbsp;&nbsp;Greater Geneva Bern area"
+      },
+      {
+        "competitor": "IQVIA",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Orchestrated Clinical Trials platform, AI-powered site selection",
+        "title": "IQVIA unveils AI suite for managing clinical trial finances - fiercebiotech.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVc4SXhtZnkxZWtKTXRXaTZ1b3lCa2hNZjhPQ3h0RV92WkRNcllVRmR3Tnl1alVKVVplX0dhaUhlUTVfQWVuR3lqYVd2c0lDS2R6dTViNXlfWFctRGc2ZF8td3lqUHZzbGpTU1E4Rk81QWNaNEJ1eE9pcm8tTnZvT2p1SnhhNDRXOFliT3VPNjJCbmc?oc=5",
+        "date": "Wed, 10 Sep 2025 07:00:00 GMT",
+        "description": "IQVIA unveils AI suite for managing clinical trial finances&nbsp;&nbsp;fiercebiotech.com"
+      },
+      {
+        "competitor": "IQVIA",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Orchestrated Clinical Trials platform, AI-powered site selection",
+        "title": "AI in Life Sciences Market, 2026-2040 Industry Trends and Global Forecasts - IBM, IQVIA and Oracle Lead Data Platforms While Roche, Pfizer and AI Startups Accelerate Drug Discovery Innovation - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VYzRuTy13ODVxaFdBMEc5LTZETUNYY0FnS0YteU5MWTF0UzBQT29naHdXbTRiRkZabFBvYjVWbDBxLXlvSzRJellQaEhsSG83dThEVnpHamE0cF9oaWdIdU05MWJ5ZklORnNCejduM0dqcEtFUUVMZUZrWUVWb00?oc=5",
+        "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "description": "AI in Life Sciences Market, 2026-2040 Industry Trends and Global Forecasts - IBM, IQVIA and Oracle Lead Data Platforms While Roche, Pfizer and AI Startups Accelerate Drug Discovery Innovation&nbsp;&nb"
+      },
+      {
+        "competitor": "IQVIA",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Orchestrated Clinical Trials platform, AI-powered site selection",
+        "title": "Advancing Clinical Trial Financial Management Through Intelligent, Flexible Solutions - IQVIA",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeE9nLUEyeVlQb0NPenBKbHRxdFlCY0xFX2JNb0xSa09rTTBVU3ZTR3dMSkJIb2NHNENsekFPOUFWQl93cXA0OVZ2SEo5dDJyUG9TRlEtMV8xcERpY3FhVi0wY3pVU0pLTmNGYk9pTEE1amhnVXBvSXVsd3J4eDUwWkRTVjFFT2FEOTgxUjhoNFE0MTZtckMtSi04Nzk0Z19kRW9WSTE0MjNVRnF2M25PVnRBVno0T1NSSjRVYw?oc=5",
+        "date": "Wed, 11 Jun 2025 07:00:00 GMT",
+        "description": "Advancing Clinical Trial Financial Management Through Intelligent, Flexible Solutions&nbsp;&nbsp;IQVIA"
+      },
+      {
+        "competitor": "Veeva Vault",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Clinical data and regulatory platform",
+        "title": "Medable Presents AI Agent for Automating Trial Master File Processes at JP Morgan Healthcare Conference - PharmTech.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUc3SzBkSXdyb19wLTFhMnVmRmRseFRFVERLT2VCRy16Z1RUQ3E4OV9MMmMyVnRJQ0tLLVZyX1Q3bFN4M1Q4SFRqWGczdk5tdmt1ZERaeFpNVzI1QzhvR0p5LVlxOFhmSEFnZ0FEZFB5ZG1LTGJTbW9Wa0RJUHFFZWZNNzNJX1VPV2RvSkVDWElISWJRU0xjSkZVYjB5Z2RmRGpFZmtvMlNmQi1yLWlqXzlVT3JSZEp0WHdfa2t3MUpDU0VkaHEtTF9mcFBvdmc?oc=5",
+        "date": "Thu, 08 Jan 2026 08:00:00 GMT",
+        "description": "Medable Presents AI Agent for Automating Trial Master File Processes at JP Morgan Healthcare Conference&nbsp;&nbsp;PharmTech.com"
+      },
+      {
+        "competitor": "Veeva Vault",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Clinical data and regulatory platform",
+        "title": "This Drug Discovery Stock Is Leading the Charge In Bringing AI to Healthcare. But Is It a Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGFYQkFKUEpsTXJoU3NwX1VZWHVMdWJReDdtc0l3UGNkSFBON3hheUFpekk2YlVielB6SmhxbEp6bGF1bWJ0QlcybjlpZHJOVjVhMUI0TGRnRnd3TGlpNDFxcGVGNjNWZDlwOGpSbEdMb3BxSGpWN0JVSVFMQzVST2pzTW5kd01PX05HN0w2enFDdm5fY1doYw?oc=5",
+        "date": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "description": "This Drug Discovery Stock Is Leading the Charge In Bringing AI to Healthcare. But Is It a Buy?&nbsp;&nbsp;The Motley Fool"
+      },
+      {
+        "competitor": "Veeva Vault",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Clinical data and regulatory platform",
+        "title": "Medable Debuts AI Agent for Automating Trial Master File (TMF) Processes - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFpzd3dfZVNrd3NCcTdNcTNrWkRyVVJpMElrT3IzXzY1bkF5cXdKbk5GZzVTTWNGRzVCY3JHMjRlaElkQjJVeGxwWFZ1M1ZPNGVYRk9MTFU5LVZZbnFsRW00ZTk2akhIS0gwMWVrVzUtc0JlUjRmdjlmaHZDTVNBTVQwcjFSXzR3N1AzWWtKX1RPYkRJX2UyTDc4Nm9oeTdfbVBSYUpGZnpsa3VQNkdpUTE3UTQ0V1BjcWtkX1JCb1B0TVFaN2c?oc=5",
+        "date": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "description": "Medable Debuts AI Agent for Automating Trial Master File (TMF) Processes&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "BEKHealth",
+        "segment": "Site Selection & Feasibility",
+        "focus": "EHR-based feasibility analytics, patient identification",
+        "title": "How AI Is Transforming Clinical Trials - American Hospital Association",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzFneVJZdTRfU1BxMERRbHdjVzVjeC1xQkpvWmRWcWFhRDRsSmc0WWx4VXhiZmRsNTc4N01QZENkTk95R0U5a2ZQMnBnVjM1c2NUY1JCbk4zZU84eGFsMXBVNVVqblhLX3ZIUDFqbHFicUNtRWU4a2NDSS1xRVVIdEFJLWJmeUtvd01JckQ5YS1lank5ZndCdzN5ZG9XQko0ZElRQi01UnlLMUU?oc=5",
+        "date": "Tue, 21 Oct 2025 07:00:00 GMT",
+        "description": "How AI Is Transforming Clinical Trials&nbsp;&nbsp;American Hospital Association"
+      },
+      {
+        "competitor": "BEKHealth",
+        "segment": "Site Selection & Feasibility",
+        "focus": "EHR-based feasibility analytics, patient identification",
+        "title": "BEKhealth: $4 Million Raised For Chart Abstraction And Patient-Matching Platform - Pulse 2.0",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmw2QXlvVWtqUERRTlRsM1dRN3dhcnZBeklQRWFZRnpYMHBCbkQ2cVFJNzFmMWgtMnRjckZocUlobDE1TERBV1VSR2drMXhWYk54SGdXVi1XcVdyWnl5dU1PTkhRY05KMTVjajlHcFNjMnRoaEFYc0JqNXVQdl9iSnVObE1zYktERUQ1WENkd0NyYVB5YUNzRHl1ekVjazjSAaQBQVVfeXFMTk44bGNzM0VGa3M1MV9yYTRKVndlUVUxR0ZRY0s1dW9QOU1vQ29iSmdfbjJjV3RHZDd3X0JNMjhCS0FCRmZkMGVtUjVvM1lyTXBlTjZZYmk3elpiMTJCTnVPdS1rY05DeGx0eFBuU2pBOHRwM0gwRjc0Ry1ZOTlJSTNxdUhYQklIMUt5WXNtX0hQQVNzMnRyZHdCa055ZDdRNGliY1Q?oc=5",
+        "date": "Sat, 15 Feb 2025 08:00:00 GMT",
+        "description": "BEKhealth: $4 Million Raised For Chart Abstraction And Patient-Matching Platform&nbsp;&nbsp;Pulse 2.0"
+      },
+      {
+        "competitor": "BEKHealth",
+        "segment": "Site Selection & Feasibility",
+        "focus": "EHR-based feasibility analytics, patient identification",
+        "title": "Curebase and BEKHealth to expand patient access to decentralised trials - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjdZZ004bTNmUlpEOHFQR3NvM0cxdjluMHhVaWZ1X1Z4c3dPT1paVUw4Y3QzX3AtWi1LT0VjYjdBR1FMam02aG11Z2QtRlFIdVlsRUVBaHNnRUI2WU5nNGh0U3VVRzltdk9RU01nTGJvdW5SNWktaGhhb2NzOXNWVENnNldDaG93?oc=5",
+        "date": "Wed, 16 Nov 2022 08:00:00 GMT",
+        "description": "Curebase and BEKHealth to expand patient access to decentralised trials&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Deep 6 AI (Tempus)",
+        "segment": "Site Selection & Feasibility",
+        "focus": "NLP for patient matching and feasibility, acquired by Tempus 2025",
+        "title": "Tempus inks $81M Paige buyout to support AI model development - MedTech Dive",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV01UWE04TjBvWVAxU25PQmVJMjBaWFVNdnY1dkFOamxPb3JaZktWMTExRlFiVFdKekduUEJlWkFZYUY3aFFDbXhTVF9aNFB4blVvSXdMWF9qdWtBa3lPVG1RVnUzTDM3YWxLX3JiR2VOMnhUdmU2cHM2WF8xVHVuQw?oc=5",
+        "date": "Tue, 26 Aug 2025 07:00:00 GMT",
+        "description": "Tempus inks $81M Paige buyout to support AI model development&nbsp;&nbsp;MedTech Dive"
+      },
+      {
+        "competitor": "Deep 6 AI (Tempus)",
+        "segment": "Site Selection & Feasibility",
+        "focus": "NLP for patient matching and feasibility, acquired by Tempus 2025",
+        "title": "Healthcare Dealmakers\u2014Cigna closes $3.3B Medicare sell-off; Ascension's Illinois hospital divestures and more - Fierce Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHYyMEJ3eTB5Z1lySVVXUEVrU3czX1BxUS1ybVBicjBSVm1rOFpkMlMtcmYzVExnTFFFVnhxLXRhckxiN1g3a0pGaGNwYV9ZeWpscHlPSlFNWm1aNF84UmxEaG9pSXMxclJic0hDNEsyUHBHZTBWNUdUNWp2R3BrLUdZU1EyS1VpbUYyM3Z0RE5yaGpJQXNHSXh6TjBGb1gtRm9WUXhvNmZRNUJaQkZfVUd4NTVzQll1V0IybEVvS1RfRWc?oc=5",
+        "date": "Wed, 02 Apr 2025 07:00:00 GMT",
+        "description": "Healthcare Dealmakers\u2014Cigna closes $3.3B Medicare sell-off; Ascension's Illinois hospital divestures and more&nbsp;&nbsp;Fierce Healthcare"
+      },
+      {
+        "competitor": "Tempus",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Precision medicine platform and trial matching network (30M+ patients)",
+        "title": "Daiichi Sankyo and Tempus AI collaborate on ADC clinical development - Pharmaceutical Technology",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0ZGVFNVVENWWTVKd21oRHBackNqVGE4V2V2UTRPNkxzMXozalp5V180NFRGdEVrczdSajg2a1F5QWZYN1pzbzh5ZmxwYWJFTnZncEY5OW1ZYTNFc3FOVDJiTkpuYXphQnhRZkRka00wdDZVMVJsMm1iMnR6b0lOTEJnREpMYWF6S0pBd1VB?oc=5",
+        "date": "Thu, 26 Mar 2026 09:40:28 GMT",
+        "description": "Daiichi Sankyo and Tempus AI collaborate on ADC clinical development&nbsp;&nbsp;Pharmaceutical Technology"
+      },
+      {
+        "competitor": "Tempus",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Precision medicine platform and trial matching network (30M+ patients)",
+        "title": "Tempus AI: Building the Data Rail for Precision Medicine\u2019s Exponential Takeoff - Bitget",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93ZWMyaE9sTlBMTDRCVVNsUWlnUGxxZjNZWEZJTWpBeXhmR2ZJTDgxU2wtUDBzOG1DbEY3NEpMVnJsSURFZlptdkgzOVhzM3MxNmc4UmhiR0x1LUpSTmNTNVdVUdIBY0FVX3lxTE93ZWMyaE9sTlBMTDRCVVNsUWlnUGxxZjNZWEZJTWpBeXhmR2ZJTDgxU2wtUDBzOG1DbEY3NEpMVnJsSURFZlptdkgzOVhzM3MxNmc4UmhiR0x1LUpSTmNTNVdVUQ?oc=5",
+        "date": "Tue, 31 Mar 2026 05:38:24 GMT",
+        "description": "Tempus AI: Building the Data Rail for Precision Medicine\u2019s Exponential Takeoff&nbsp;&nbsp;Bitget"
+      },
+      {
+        "competitor": "Tempus",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Precision medicine platform and trial matching network (30M+ patients)",
+        "title": "Tempus AI, Daiichi Sankyo team up to boost cancer drug trials with AI - Mugglehead Investment Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1hqRF96bmtkcU1tSmwyaWFTNmtRUzY1ZFZMbWdWUFVFYUg2c1NZb3pxbXphREFhSzlJWHltcFNrVFR3NjU3Rm5ZdWtLTC1mSG1sSWt3ekNNUGswSVhnM1Y1X2VUT1NEU1VVTzNER0pEd3c4SFVtaGhSa283dEdMa2JmeTAtNEE2T1dwclhBZXVJd1B0ajg4?oc=5",
+        "date": "Fri, 27 Mar 2026 22:44:32 GMT",
+        "description": "Tempus AI, Daiichi Sankyo team up to boost cancer drug trials with AI&nbsp;&nbsp;Mugglehead Investment Magazine"
+      },
+      {
+        "competitor": "Lokavant",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Trial risk monitoring and site performance analytics",
+        "title": "ProofPilot Acquires Lokavant to Transform Clinical Trial Performance with Predictive Analytics - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcWRrbTUzazEyM3BET3p0MFBLVmJ0MDBzNXFqUnR5T2NJVVBxSDkzZmJ2MThoeU52Wk1UYzZQTFZDU1ZheHlMMzU4eGN4SkVtQjM4UnFDODFmSW8ycFBLOXR0S0VKUlYyOHdaWHhVMEthN3NCR2JrTlpKX3NmcFYyM2E4YzZtc2NBSkZyU3BXRFdBZ0lDdWpWdERUTHdKZm96SEdBLUlXSTNLcXVxSW90b29DbE9aamJWUmFPMVhfTFY2eEVOWFd3V3pqWk04Q3p4VFBNZkdZSkNpdG8tS0ZERGx1aHE?oc=5",
+        "date": "Mon, 15 Sep 2025 07:00:00 GMT",
+        "description": "ProofPilot Acquires Lokavant to Transform Clinical Trial Performance with Predictive Analytics&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "Lokavant",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Trial risk monitoring and site performance analytics",
+        "title": "How Pfizer and Lokavant are Transforming Trials with AI - The Medicine Maker",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmdRYzh1Q0dLb2xCYVh6WkxZUUhra0ZGSC1Fc09BeFg2eDdKWHpCeXJ5ZTltMXExLU1xY1JMTVhCVDREQjU2VWI5X21MT1h4YnRGX05pQzJsM1NnRWQxYnk5eUdURFQzY0RzYVd5Y2hweEZuVXZ4M2NqR1lFTXFDbWpDTkpEaWNqQXVHd1B1ekFOa3RLQkczVF80S3hFVnVnRUh0bXlxckZOdjREUXo2eg?oc=5",
+        "date": "Tue, 15 Jul 2025 07:00:00 GMT",
+        "description": "How Pfizer and Lokavant are Transforming Trials with AI&nbsp;&nbsp;The Medicine Maker"
+      },
+      {
+        "competitor": "Lokavant",
+        "segment": "Site Selection & Feasibility",
+        "focus": "Trial risk monitoring and site performance analytics",
+        "title": "Lokavant\u2019s Spectrum turns clinical-trial planning into a live simulation - drugdiscoverytrends.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQci1ncFNKd3hpckR5SjV2NEVLWURMZ191X2czbWp2REc4R05GSGNxZFQzejJSSzNKRDB2QzR5WkE5TGRqNjFTY251Wkt6eFRTdXZzVDl4RVg5MnRkWlg1aFZMYnVIQjZGZHFyZXVHTlBWTVV3UTZMN1Z5dXpncE8xMlRlcUlraUs4eDMwT2dOMm5SaGFwMW5pSFFBS3J5RGpiUl9FSXdhaXdCZ1Mt?oc=5",
+        "date": "Mon, 28 Apr 2025 07:00:00 GMT",
+        "description": "Lokavant\u2019s Spectrum turns clinical-trial planning into a live simulation&nbsp;&nbsp;drugdiscoverytrends.com"
+      },
+      {
+        "competitor": "Carebox",
+        "segment": "Patient Recruitment",
+        "focus": "Patient eligibility matching and navigation",
+        "title": "How AI Is Transforming Clinical Trials - American Hospital Association",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzFneVJZdTRfU1BxMERRbHdjVzVjeC1xQkpvWmRWcWFhRDRsSmc0WWx4VXhiZmRsNTc4N01QZENkTk95R0U5a2ZQMnBnVjM1c2NUY1JCbk4zZU84eGFsMXBVNVVqblhLX3ZIUDFqbHFicUNtRWU4a2NDSS1xRVVIdEFJLWJmeUtvd01JckQ5YS1lank5ZndCdzN5ZG9XQko0ZElRQi01UnlLMUU?oc=5",
+        "date": "Tue, 21 Oct 2025 07:00:00 GMT",
+        "description": "How AI Is Transforming Clinical Trials&nbsp;&nbsp;American Hospital Association"
+      },
+      {
+        "competitor": "Carebox",
+        "segment": "Patient Recruitment",
+        "focus": "Patient eligibility matching and navigation",
+        "title": "Carebox Healthcare unveils new platform to connect patients to trials - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlRHMW52SVhhRy16RWFZTUNkdzF1RmZ6V1BndnRZUGZTN2RFalpSejRySEtoZXBsR21Da2ZIMXQ0VFBVeXYxblpPRnljdEduYkl5WVRGbG10QjVGTzEwZnJhcnNoY0JoZEhpV1dfYWRCdkc1ck55X1FxdFN1UDZnbDJ6UkVfZUV6TWc?oc=5",
+        "date": "Wed, 15 Mar 2023 07:00:00 GMT",
+        "description": "Carebox Healthcare unveils new platform to connect patients to trials&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Carebox",
+        "segment": "Patient Recruitment",
+        "focus": "Patient eligibility matching and navigation",
+        "title": "H.I.G. Growth Completes Significant Growth Investment in Carebox - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYWc1VUpEUUJxNzVNejgwakVnYW9WMUktVGk3RF81Q1lwb1N3Z0lRM2dGQUpmanpOM3VSeF9uSmpTOUJaWTNxLUh4X0FvaDY4Snc1SFhzLWhXdGczd1ZoaWVrOEkyNUw1M0lGRmM2WEVmdnZCMENwbmZCUkFFM2o5Tk5iMWZBRUZyOUdpcFJjNUhaWnh6a0J1NFNBTzZFUU5VQng1czF1OWRHaGlkVkRRYldwNk1SZ2Vi?oc=5",
+        "date": "Mon, 18 Nov 2024 08:00:00 GMT",
+        "description": "H.I.G. Growth Completes Significant Growth Investment in Carebox&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "Dyania Health",
+        "segment": "Patient Recruitment",
+        "focus": "AI patient identification from EHR, 96% accuracy",
+        "title": "Cleveland Clinic Accelerates Clinical Trial Recruitment with Roll Out of Dyania Health\u2019s Artificial Intelligence Platform Across Health System - Cleveland Clinic Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM0h2VXVfcDAtWkFXYUtyMFZYb0E0Y19uaGtRdUM1MTlvLXlMOHBRaHlMVE1wOXdPZjhKR1Fjb3g0dmxPbU12eDBob3Y1T0lkb1JBYXNuU0VqMFdWNVV4TmpDRGYyN3pMUk8yd05aSVYtbDZicmJnazV4akdNaXlEamZnV21VZWVSM0RmSmdyS3JYeE5mN0xsVzdCWHNFbEs1NnFzSUk3NUVkaDJXRVd0NE5QckhtZmxjMjVxQ1JzU3dLREZ1bmZXOVd1WUExRVFXZ05VdmNPamNzZmx4WUZvamIyV19CbVFBTHVjbi1WTFctOF9tSy1ESU1BLXJrNFhfZGhVSVpvMGZHc0JnUnRZSzBBUDVkeHhD?oc=5",
+        "date": "Wed, 27 Aug 2025 07:00:00 GMT",
+        "description": "Cleveland Clinic Accelerates Clinical Trial Recruitment with Roll Out of Dyania Health\u2019s Artificial Intelligence Platform Across Health System&nbsp;&nbsp;Cleveland Clinic Newsroom"
+      },
+      {
+        "competitor": "Dyania Health",
+        "segment": "Patient Recruitment",
+        "focus": "AI patient identification from EHR, 96% accuracy",
+        "title": "Cleveland Clinic partners with Dyania Health for clinical trial recruitment with AI - Fierce Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXJUaHdtNldQNUlqMTJBUThTZF9wZ19ZcGo3VVVDZkJDM1c3bnowVHc1a0M5X29EVXZlQTIxdFktZXAteDh6STBkSTVEREZxY1JaQUJvWlpod0xrMWdSbHBkWmkxMEVXS3FCSncwRklhWGUwSzlWTjRNWV9DTW9ERW0wMVVfbHBIQi1EcEk4U3dMdDd1anpJb1JvZEJOYWotdlNjQ0Y0UlkyQUkwbWp4VzV4SnFOYmhWRjAzY0RjYVFHZ3Qt?oc=5",
+        "date": "Wed, 27 Aug 2025 07:00:00 GMT",
+        "description": "Cleveland Clinic partners with Dyania Health for clinical trial recruitment with AI&nbsp;&nbsp;Fierce Healthcare"
+      },
+      {
+        "competitor": "Dyania Health",
+        "segment": "Patient Recruitment",
+        "focus": "AI patient identification from EHR, 96% accuracy",
+        "title": "AI-Driven Chart Review Accurately Identifies Potential Rare Disease Trial Participants in New Study - Florida Hospital News and Healthcare Report",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZjI0N29KV2hURVFtejdRV0dyZUxRSHBDeHhGSnhfVHlXZE5fNDJ1UVB0cVRZOVRUanFVb1o4TVdUdVNTUXd6bkpkd0NsNkd1N2MxanpTTmpnX00zQ2xzZU1zZ0c1VzdmN29GeWpLU29naEt3VWN6emxsZlhzOGN2TFFjR1dieE0yVEJDY213emk5N2JXMEx3ZVBVNjNRTW1vMV9QZWw4Y3Z2SXlJOWNhS0diSnV6V3JldDhaUUhka19qWWJNX21nTUh2NVowcHNoVUpz?oc=5",
+        "date": "Sat, 07 Mar 2026 15:15:08 GMT",
+        "description": "AI-Driven Chart Review Accurately Identifies Potential Rare Disease Trial Participants in New Study&nbsp;&nbsp;Florida Hospital News and Healthcare Report"
+      },
+      {
+        "competitor": "TrialX",
+        "segment": "Patient Recruitment",
+        "focus": "Clinical trial matching platform",
+        "title": "TRISH selects healthcare and data management projects for spaceflights - Baylor College of Medicine | BCM",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2lHTzM5VmRXQTN3dEdxbFVwMGtiZ1EwNkU2dFpEclNNbXZZd3lLYXEtdFRWV2ttdTNIRU8xTDBGNy1DNndxcWdtS291bTRmQ1VHbTRSUlNtTHdmVVVQMmg0TjBDSm1zZVE3RTF4Sm5zVEZ6aTZtb2txR28tQ2VGaVg4Z0ZORjZXUlRUbU9IU0tRaFROV25uZ3Z0Yw?oc=5",
+        "date": "Wed, 01 Nov 2023 07:00:00 GMT",
+        "description": "TRISH selects healthcare and data management projects for spaceflights&nbsp;&nbsp;Baylor College of Medicine | BCM"
+      },
+      {
+        "competitor": "AIwithCare",
+        "segment": "Patient Recruitment",
+        "focus": "RECTIFIER RAG-based screening, Mass General Brigham spinout",
+        "title": "Mass General Brigham announces AI company and clinical trial screening tool - Healthcare Finance News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVjVPRWxDVzhnVFlMUW1nS2dJQ1JDcnNDblkzbG9YVjd4dzZzVEhsNkR4REdISXlPQWNoVklwaDFpdUE0bWVwU3lUeWhwa3RFeGc4N2tMTWhuOUZFU0ZrTG41RS1TZkFvdTJJMlBjdkI0N05USGtUOU1ySlBpX0RXcWFmVlB4Si1GR0V1X3VZNVVEcURPMGRKU2RBRHJldE9xcnZlek9NUXBWZk9McmltT2pubjktaVJFOXc?oc=5",
+        "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "description": "Mass General Brigham announces AI company and clinical trial screening tool&nbsp;&nbsp;Healthcare Finance News"
+      },
+      {
+        "competitor": "AIwithCare",
+        "segment": "Patient Recruitment",
+        "focus": "RECTIFIER RAG-based screening, Mass General Brigham spinout",
+        "title": "Mass General Brigham Spins Out Generative AI Startup - MedCity News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXcU5WTU9ZZXZQb29ILVNsTHdtSnUxMFU5X0ZJdy1DUVh0RktiT2dEMXBIS05kdTliT1htZFNyN015OXp4Uk9IWUd2Y2ZRVm1NdWZUdTEtbG5JdFNCeXUtMkc5OWJnUzAwSkt3ZDJfSnBXaDFSdHNSQnp5OA?oc=5",
+        "date": "Mon, 15 Dec 2025 08:00:00 GMT",
+        "description": "Mass General Brigham Spins Out Generative AI Startup&nbsp;&nbsp;MedCity News"
+      },
+      {
+        "competitor": "AIwithCare",
+        "segment": "Patient Recruitment",
+        "focus": "RECTIFIER RAG-based screening, Mass General Brigham spinout",
+        "title": "Mass General Brigham launches AI company to enhance clinical trial matching - News-Medical",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOekJ4VHlYczBsb0NwMkVueGJsZ2U4eGI0RklzeFVJVW5lbGpuOTY2VTJlcTZEMWxKb1E1dUpuMW9QdWpJZGhKUWRzSFI0Vm1jUTU2U25jb1dyNk8takdDdUJFdFRzdGJqY3huQ2ZsVFktQlVBZ1BYaVdtMW4zbXlZNnh6U3JkYkUtcVdOd0tPNDNJR1kyTDJFbld1V2phRVN4V1g0YnhSbnZpN1ZudlFFMWVmVHlKaDA2OV9Id3ZHdFQ?oc=5",
+        "date": "Fri, 12 Dec 2025 08:00:00 GMT",
+        "description": "Mass General Brigham launches AI company to enhance clinical trial matching&nbsp;&nbsp;News-Medical"
+      },
+      {
+        "competitor": "Antidote",
+        "segment": "Patient Recruitment",
+        "focus": "Patient recruitment platform",
+        "title": "Lunai Bioworks (NASDAQ: LNAI) Launches National Chemical Defense Consortium Targeting $400M-$1.2B U.S. Countermeasure Programs; 3-Year AI Antidote Development Model - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPYWI0dlA0NG14djFfeEtBWHRmWnNBQTlXZEI0VE9DeUJ0eC1OaW8wNUNaNFdxVnVuM213VVZPbVZDUUlsVXNzd01uZGVFU3lnbDZ5VG5UTndjRnprQUhfLU1rdUtMVW5qckVibkZ1TlJBcHdGb1cyUF9WTkdIalM2UkpJVm1OdkNXdm82QmNlVHg4YzlPWFdmdEprc250QXlJZE10d2lWOWVWRFZwaTNnX2NIdWpFTGNBbVpaVXJCWHVHdDRtdlVOVGVyM0pseXptUnVTQzRoM3hXWFFUdmlpMXJ5Z2pzNF91N1F5WWtSQ05oY00xTjlLd3VNQlhzU1lvYzFrSVlDbmhBQ1pjUFVVWHRvUWJ4Nm1NYUtuV1JJNHpIV1RYaU02RmRIazhKOEdmV3RlWXdR?oc=5",
+        "date": "Thu, 19 Mar 2026 13:57:00 GMT",
+        "description": "Lunai Bioworks (NASDAQ: LNAI) Launches National Chemical Defense Consortium Targeting $400M-$1.2B U.S. Countermeasure Programs; 3-Year AI Antidote Development Model&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "Antidote",
+        "segment": "Patient Recruitment",
+        "focus": "Patient recruitment platform",
+        "title": "Alleviate Health launches with $4.3M from Andreessen Horowitz - MobiHealthNews",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUEtamdlSm1jemVGN0E3elFIVWhJczFGSDYyZU1nbnB4ZENlUkk3amtPYnNYZFM4VmpISEQ1dndWSEEzYkxlVXRmdnBvSk5pNmhNWDRQQUdkLVEwM2tXWm1BQUI3VlZDcTZ0c1dhaUtEMjk1LTQyZG0wSjJmWWVsZmR5R1NCV1NEMENvVnVR?oc=5",
+        "date": "Mon, 13 Oct 2025 07:00:00 GMT",
+        "description": "Alleviate Health launches with $4.3M from Andreessen Horowitz&nbsp;&nbsp;MobiHealthNews"
+      },
+      {
+        "competitor": "Antidote",
+        "segment": "Patient Recruitment",
+        "focus": "Patient recruitment platform",
+        "title": "An Amish Avatar and an A.I. Monk Are Pitching Supplements on Social Media - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzBSc0czdExFWVBMelkxeWFBUHlBT3RqNXBGaXlWMnoxNXpwYVQ0MjRTZlhobzFnTzZkVkozMDJsLXU3TGFpVkl6X0t6NFIyZFFRLVNVZ3ZEZnFYcXFoNjVTNFNoa3lyeUpxbHIwUTFKQm1vc0wxWUdtMnF6RW5qZDJVSkFZZmlhZm9PcF8zLXRMRFlmNkVnMEFRYldhdmdYUzVvZVB1YmJ5Zw?oc=5",
+        "date": "Mon, 09 Mar 2026 07:00:00 GMT",
+        "description": "An Amish Avatar and an A.I. Monk Are Pitching Supplements on Social Media&nbsp;&nbsp;The New York Times"
+      },
+      {
+        "competitor": "Mendel.ai",
+        "segment": "Patient Recruitment",
+        "focus": "NLP for EHR and trial matching",
+        "title": "Human-AI teaming to improve accuracy and efficiency of eligibility criteria prescreening for oncology trials: a randomized evaluation trial using retrospective electronic health records - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UQTAyRXJsckQ0dDlaa0FiUHFLNE16NXNWa3VXNUtGM1N2alN1MGdhMV9wdlRnZm9XaktxUXhDc3V6YlJQdzJDaE9Cb0hZMl8xSWhKdEdnMy1nSFRTOFJB?oc=5",
+        "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+        "description": "Human-AI teaming to improve accuracy and efficiency of eligibility criteria prescreening for oncology trials: a randomized evaluation trial using retrospective electronic health records&nbsp;&nbsp;Nat"
+      },
+      {
+        "competitor": "Mendel.ai",
+        "segment": "Patient Recruitment",
+        "focus": "NLP for EHR and trial matching",
+        "title": "AI in Clinical Trials Market Research 2026: Market to Reach $18.62 Billion by 2040 with IQVIA, Medidata, IBM Watson, Oracle, and Phesi Leading Through Integrated Data and Patient Matching Platforms - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNWk85aW9UNzhkcFFJNGdVOEpueHdOUmZ2Wlg2VFpOckw2b05sNjdfVUlvRjZjaV9zRXBNS3BMRDFjd0M2ZDBXeDkyeGZBUDFVNHJDeUo0T3Q1TkJZMDdEWEZkRkFidGlRQXdQREtBM3JiMjViejRsQkQ0TzRaREE4YUl5RmFjWjNyU0dINjBoQlBFWm1DdlNRTU42WTlfYzM0R1A2ZThMQ3IwZ18ySnJmZHFlRFBjOVUzYnh2d3ItUFU0YVAtSldXLXg3czdlX1hVbnhQQS1Qb3FUaXRjQUNZX3I4bEV5dTRtU0xiYzNVd044UlhGTXZ3aFVGS2RJSUU3SGJTbXV5UHNhSmVDbkc1V2tMYjAtckpBV2VuNm1keXdEQ2I2TEt1czQ4MEVvYWotRDZaOEFuM19OY2YteVRUVUNIekR6a0k5R2swMEs4ZGlqN2NzSVNoOVY5aDMtb3h3b1JUeWNtamM2VU5p?oc=5",
+        "date": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "description": "AI in Clinical Trials Market Research 2026: Market to Reach $18.62 Billion by 2040 with IQVIA, Medidata, IBM Watson, Oracle, and Phesi Leading Through Integrated Data and Patient Matching Platforms&nb"
+      },
+      {
+        "competitor": "Mendel.ai",
+        "segment": "Patient Recruitment",
+        "focus": "NLP for EHR and trial matching",
+        "title": "Mendel sees positive results in AI cohort matching trial - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnlNM3lKTmRtUVYwQXBVb3dvSmstY0FTUnMwRVdneUxvckNsV09NRVphOU52d0FtTE1lTnlsQ2NKNThJRENoYkdWbWlsRWJwMXJmQTFXVF9HaE42RHhLdVNnZ0hlTU5nVlgxWHJRSVVGV2dwNUhsX1cxcEVBZEN2RlktV1NCelpxajN0ek5nZ0JZRllVdzZsV09oenM0dzA?oc=5",
+        "date": "Thu, 04 Jul 2024 07:00:00 GMT",
+        "description": "Mendel sees positive results in AI cohort matching trial&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "ConcertAI",
+        "segment": "Patient Recruitment",
+        "focus": "Oncology RWE and trial optimization",
+        "title": "ConcertAI Launches Accelerated Clinical Trials, Leveraging Agentic AI to Radically Shorten Trial Timelines - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR1NOQ2QzWklXdHFQREM2bFNTVU9UeDB4NW42ZkJyLWxkT1l3M3dxLTVNcjlrVVRpeWtvdVhhcjBTSGxXOXp6UWUwRjVHRU5EbU95VzY4VU1qMVF1NEdCb2liQXJIa3dJOWJmRmRQaGktX1NmQ3VRWEs5SHp4N2V5T3o0SmJ2bk91QlVUSDlGdm8tYllQSlMybGJndk5GODh2THJXc2t0UEhXTGlObFkzYV9URGZzR3N5eXQ1VEw5ZHhLVzNJRmJ6eVcwMTJkQ0dfblpWRmJRLUFNWEJaLVZYeEkxMk41aTlfYTlCd3o5UmFIREtQ?oc=5",
+        "date": "Mon, 02 Feb 2026 08:00:00 GMT",
+        "description": "ConcertAI Launches Accelerated Clinical Trials, Leveraging Agentic AI to Radically Shorten Trial Timelines&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "ConcertAI",
+        "segment": "Patient Recruitment",
+        "focus": "Oncology RWE and trial optimization",
+        "title": "Oncology trial systems debut at SCOPE 2026 as AI adoption accelerates - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGcwbWtLQ05BT1NhdlQzOHdvUzNrYklOX1RrV3JsTlZObFFVSFViR0NFUy1WcktsbnJGdS1uOENNZUY2ZzBsSXVqZGZwMGRpNldvY0t4eUoxU3M5QWdsYnM0NV9pYi1TeGE2SHNVSkcwRlFUeVRYX1U5RGRCYTZhb19vc0xhRDllOHB2em9CLXNJamN4WHlxWXdiWFJtaXJjMS1CZlRSMjBkS1J1bEwtRg?oc=5",
+        "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+        "description": "Oncology trial systems debut at SCOPE 2026 as AI adoption accelerates&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "ConcertAI",
+        "segment": "Patient Recruitment",
+        "focus": "Oncology RWE and trial optimization",
+        "title": "ConcertAI Launches Agentic AI to Accelerate Clinical Trials - HLTH",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3ZsajhVenZnYjU3a21tN1RtYW93dWZiNVU1cHM4TVVyVk80eEZscGowczAxd1ZtTDM3SUFQa3c4cS1YNUo3enB5VHBNY29mc3lUV3BDNVZCUDFkSFEwUmhrZm5OTXhfTmpGMWJpS0tXU095YXNZR3lCenRHNURyWFRrSm5oMkhrT0NpREtQUEYwSzB5dFBuX1ZlbGF0N0VHeUJj?oc=5",
+        "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+        "description": "ConcertAI Launches Agentic AI to Accelerate Clinical Trials&nbsp;&nbsp;HLTH"
+      },
+      {
+        "competitor": "H1",
+        "segment": "Patient Recruitment",
+        "focus": "HCP data, site and investigator intelligence",
+        "title": "2025: The State of AI in Healthcare - Menlo Ventures",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lQ094Y3dMdGtwRWd3QjdCN19OSTNVbGF6SlRBZ3VmRjctbUMzYktPUmdETm43TmdtSkdIVTZSZlJGT3FnNjZ2TVdCY3JyMGRUVF9FVFJ0N0VLR3E1VnpnbEZvbTBYSzJXaFVvQ09kczByRWVQWVE?oc=5",
+        "date": "Tue, 21 Oct 2025 07:00:00 GMT",
+        "description": "2025: The State of AI in Healthcare&nbsp;&nbsp;Menlo Ventures"
+      },
+      {
+        "competitor": "H1",
+        "segment": "Patient Recruitment",
+        "focus": "HCP data, site and investigator intelligence",
+        "title": "Absci's hair-loss drug is well tolerated in first 3 cohorts - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE9FRXgyMzRjQ2VDZFBWTkdyV2NGVkoxdXNXbmp4TWVKVnY1SUlhcFBDRVZ2ellsakpZbGFGQVYtUS1ILVd0QjZONVFnVUNuNjJic2IzbGtYcTNQZmFfS0swbTAtOHJMUERPMEpXN25NQjV4bDQtLWVVdWJubXY1amUyam5uT19ubEdMSW5kNlZVRTVpZWZ2SzlnMXNiaW45SS1uQ0VBRmxtTlo1TkdrOU40YVZWeXhfaXA0b2lWME4?oc=5",
+        "date": "Tue, 24 Mar 2026 20:05:00 GMT",
+        "description": "Absci's hair-loss drug is well tolerated in first 3 cohorts&nbsp;&nbsp;Stock Titan"
+      },
+      {
+        "competitor": "H1",
+        "segment": "Patient Recruitment",
+        "focus": "HCP data, site and investigator intelligence",
+        "title": "Clinuvel Showcases AI-Powered Vitiligo Assessment Tool at AAD Conference - smallcaps.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFVKTXNYd3dTQXRnSG85S09lYTkxMVBMWWVWRVFmSl94YjBXS0k0MVdRTHlQcEFvdkRSa2lRRHFFV2F3QlEybDlVQVNWUkNXcUExV2s3VmdmVURocExiZnVGUUhPUDREYVhEblAtd3owNXNpVjZ1MFh5VnRocG1oUi13aEtFSUNncTF6dEJkbnNaU2pOTnhWb2xfcXBTVnVPLVZoRXVYcGM?oc=5",
+        "date": "Fri, 27 Mar 2026 02:41:01 GMT",
+        "description": "Clinuvel Showcases AI-Powered Vitiligo Assessment Tool at AAD Conference&nbsp;&nbsp;smallcaps.com.au"
+      },
+      {
+        "competitor": "Medable",
+        "segment": "Trial Operations",
+        "focus": "Agentic AI for DCT, eCOA, Agent Studio platform",
+        "title": "Medable Launches AI Agent for Clinical Trials - bioxconomy.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUhaMFprRUZRcEE0d1E5ZVZkV19VeVc3RjloS3JNYzJkR1Z0OWJ4eFpqV3Vsbl9ia1F6UHNMNHVzbDQ4NnQyQzBDclJza1pocHliNmhaXzZsR3Zoai1ZbmNRTkFxNE1MXzBKU3hxYjlsT01fSmZDVDZmLWx3WXh0Y1ptWlA4akVzSk51ZHRUbmVsTEJxcnFwNGlGcmJ5RGl1ckZWMTF0UGY4RzhGV2pWd2ZENVc2WTJmWklFb0RxUVZTUFZKbEdWQV9zWXhBZElzaEIxR0NkRTVCWm1SN21RaQ?oc=5",
+        "date": "Mon, 09 Feb 2026 08:00:00 GMT",
+        "description": "Medable Launches AI Agent for Clinical Trials&nbsp;&nbsp;bioxconomy.com"
+      },
+      {
+        "competitor": "Medable",
+        "segment": "Trial Operations",
+        "focus": "Agentic AI for DCT, eCOA, Agent Studio platform",
+        "title": "Agentic AI for Clinical Trials: Medable\u2019s Roadmap to Speed and Scale - The Clinical Trial Vanguard",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGh4dGlwdFJ4NThoOEJwTE5iUDRvT0lOMmtrS0FXdXNMTWNVRjZMcXhvUldDT1BDTVZ1a0VmaHJQS01PSlBGRWVfX1R1Y2pmdlE1WHEzYWFPNlM2cjFzQ1ZBMzJHMVlWT1ZMZW9uOUt0cUt0WlJVQTFaaV9LUGFQS1ZmelZLaC1YUHhUUnlYU2dOaFlJbW0wM2RDS2sweUdWVXlYUlR1OE4xSVU4VzRidE9ZQ0ltVkM4cHhndmplNXBZbzQ?oc=5",
+        "date": "Thu, 29 Jan 2026 08:00:00 GMT",
+        "description": "Agentic AI for Clinical Trials: Medable\u2019s Roadmap to Speed and Scale&nbsp;&nbsp;The Clinical Trial Vanguard"
+      },
+      {
+        "competitor": "Medable",
+        "segment": "Trial Operations",
+        "focus": "Agentic AI for DCT, eCOA, Agent Studio platform",
+        "title": "Medable Introduces AI Agent to Reduce Burden at Research Sites By Assisting Principal Investigators with Oversight of eCOA Data - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQUxCaEdadGpSZUI5RG54M0xlR242YVZGOTJGSGFhMkRiZlhlM3pxUkRCcEZ6OEluWWY3dURiZHhSS2wxakpFUFIwaGlRWndkNlJ3N2ZkTUw5OUV6YV9vNVg3b0FObEo5YWtvTmlEd1R1eTR1NTJhYkx4clhsNmRhT2trN0dxS1p0NnFTZ0tLWDB2UVo2WVlRd1ZnNHN4bGZRZmxGRG1MaEp6SV94WjNDN1FuWTZ1U2F3R2VMVW5WMl9MOUw2VDhFdjMwNUhUcjE2N3AwUWx6R3I0Y3l6OXhVNUxHY21Gc1J0d28zSDR5RHNfblNLcXhwRDJheVNJWlZOa0xLdkVLSWg2UWVfYU55UnRn?oc=5",
+        "date": "Wed, 28 Jan 2026 08:00:00 GMT",
+        "description": "Medable Introduces AI Agent to Reduce Burden at Research Sites By Assisting Principal Investigators with Oversight of eCOA Data&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "AiCure",
+        "segment": "Trial Operations",
+        "focus": "AI for medication adherence and patient monitoring",
+        "title": "AiCure Appoints Sabina Chadha as CEO, Ed Ikeguchi Transitions to Chief Medical Officer, and Josh Wilson Promoted to COO and President - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSzltNXN1MzQ1S0lnS0pfWTV0Z3ZSOG5MMUJULV9JODV4dGJKRGFPY0VFcE9WUlpYQ0lXbWhjbTVpQ1pVd0xOWEJQT0lSNHdCbTRHb0JKb3d4SnA1dDlRMER4aFFTWHlBci1qMVNuOVZ0azNLcnBBV1lUMXhad0tJcUxpSlZMTWNlN0wtTnZsVnJnUnlSRGNKdDNOVTNrSFZaLXI5Sndud1R4WUFXQ0VTY1k5dlVxaWFzaGxDTFc0ejJIODhEMWgzUFhzZ3VyeWoxbEdzd3hoUmhpR0t2eUx3LW5fT0ZURGRZdmFHR1Blazh5WGVxVHJ6QV9uNTVLUy1qQ0xqV3hFOG94UWstZnI3ZDBxMzFvQQ?oc=5",
+        "date": "Thu, 29 May 2025 07:00:00 GMT",
+        "description": "AiCure Appoints Sabina Chadha as CEO, Ed Ikeguchi Transitions to Chief Medical Officer, and Josh Wilson Promoted to COO and President&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "AiCure",
+        "segment": "Trial Operations",
+        "focus": "AI for medication adherence and patient monitoring",
+        "title": "Harnessing AI Innovation to Modernize Clinical Trials - Inside Precision Medicine",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkNZSHdWSlhPeGdxZWdtRnJIc0tOaGxraHMxQWg3QjQ1eVExWEdRQXlrU2lJZXNaQWswbmZfbWVfV19Ma1prNmhLMWZ4T3E2aV9YVUtmeVFaZnRRNUIyQ0hlU29kMWVBTDZyZ2Zma2NOY1RKMnZqSU1nbk43OXQ4RVgwVzFfTFIxSGxDWXRSVUdGcjJwSW4tXy1qYWFPdEUzRDFVSnROeDc3VTZxZG5GMHZNMWxyZFNPRTFEUTI1T2pYdw?oc=5",
+        "date": "Thu, 12 Jun 2025 07:00:00 GMT",
+        "description": "Harnessing AI Innovation to Modernize Clinical Trials&nbsp;&nbsp;Inside Precision Medicine"
+      },
+      {
+        "competitor": "AiCure",
+        "segment": "Trial Operations",
+        "focus": "AI for medication adherence and patient monitoring",
+        "title": "Science 37 teams up with AiCure for virtual clinical trials - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xRTdhNWJaUzdibVpnWW92cGpmQ0RuWjNrUzR1RDBta2NGRE5vRGc1U0xPWVlXbW9UUzV2ZkdyQkVFQU9ta18yMDRxVjNUa0pWVkk2anRVbkRZZ0pUdEM5UEFYMjBVNGZ0WEs2UFNZME5yU0VHRnlwWnB0ZUtzSXc?oc=5",
+        "date": "Fri, 01 May 2020 07:00:00 GMT",
+        "description": "Science 37 teams up with AiCure for virtual clinical trials&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Suvoda",
+        "segment": "Trial Operations",
+        "focus": "IRT + Sofia AI assistant for trial management",
+        "title": "Suvoda sets new standard for streamlined patient and site experience in clinical trials - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLXBmQ2NCZHpoaFU0bGR2a250ZThqQkZuQkRkMWVpX3BuNDE2YXRUWkphNWRYWW9Hd1NESTFFOFREOE5fTnRyRHVxSTFqaVctZ2NFVTZQZUN3WGZBMnZBLUk5U0RidDNyUGNIWFI4WEZPenFTemVySFdhQVlkSUJub1pKLTBsZ2pXRzlyeG1DUzUydE51Q1JNOTdnYmNMRl8tSmdSX0VQMTNXSVZyNEhHUjNhZzFUaUl6MzB4Q1FFcXROR21BQ3Byb2ZaSUduNFFTSHY1Zm13aFgyMkk?oc=5",
+        "date": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "description": "Suvoda sets new standard for streamlined patient and site experience in clinical trials&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "Suvoda",
+        "segment": "Trial Operations",
+        "focus": "IRT + Sofia AI assistant for trial management",
+        "title": "Suvoda introduces AI assistant to manage clinical trials - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrMlpVVlhTNGNMaVdENXljZ1Y2aFlLWW1qSzRMdzA5dzV3Mi0wdmMyTmFsVE50bU85Qll2cTc3S2QtYlJHMnhReFRZVkw5eUhHWU1SbDh6LVZjRzNRVEEtVTVLVDlIWEFCWFptdnE5Sk83WVVPdjJB?oc=5",
+        "date": "Thu, 06 Mar 2025 08:00:00 GMT",
+        "description": "Suvoda introduces AI assistant to manage clinical trials&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Suvoda",
+        "segment": "Trial Operations",
+        "focus": "IRT + Sofia AI assistant for trial management",
+        "title": "Clinical Trials At A Crossroads - Clinical Leader",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rWG9UbVV2S1dZQkd2MC13YlBJSi1aRmk2MUpFMTdqYXRWdmdDQ3JPcWg5ZmV0eFhkUV9JbmdiMlA3N3N5b0lXTndJZ3h0ZnoyM0J0QVVsMUQtRlFjY3RIWUFvcl9VaVpQcW9RVUFBWmlvM2NjSExOX205Yw?oc=5",
+        "date": "Wed, 22 Oct 2025 07:00:00 GMT",
+        "description": "Clinical Trials At A Crossroads&nbsp;&nbsp;Clinical Leader"
+      },
+      {
+        "competitor": "Teckro",
+        "segment": "Trial Operations",
+        "focus": "Site performance, mobile protocol access",
+        "title": "7 AI Healthcare Startups Automating Clinical Trials - Nanalyze",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wUWFfUTIyWU1YNk9iTDZhcFN3YUJtclZTb0ZCdjZEYnJaWXVtekJTQjEzSVBqVGVsWW5Rc3lKbG42bnlZYlJIUzRPMDQ2QkFoTWpoSEIzSW0wejkxV1l6M0Zhc09KT0lVMXlNUDRqXzJtdkx5R0dFamtvcFk?oc=5",
+        "date": "Wed, 15 Jan 2020 08:00:00 GMT",
+        "description": "7 AI Healthcare Startups Automating Clinical Trials&nbsp;&nbsp;Nanalyze"
+      },
+      {
+        "competitor": "Teckro",
+        "segment": "Trial Operations",
+        "focus": "Site performance, mobile protocol access",
+        "title": "Overcoming inefficiencies of clinical trials with technology - Pharmaceutical Technology",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFgxV0ZtMV9WTkNkc2R2Q2RNaU4zQlJMWjNkdF9LZzVOc2hVYVZNdVFLZUV1VC1wT1dEQlZoUzhhSmYwdGRVUHhCbFk3MkI5LWcxZ1drN3ExZWZhQkhrV3FtbWZLeVVVaWx0VUtvZDRpbzltR2taRXBVVi1mQVY5RHJHUXdlaFhBQk44MWxKUUhuT29LNFNJ?oc=5",
+        "date": "Thu, 27 Feb 2020 08:00:00 GMT",
+        "description": "Overcoming inefficiencies of clinical trials with technology&nbsp;&nbsp;Pharmaceutical Technology"
+      },
+      {
+        "competitor": "Teckro",
+        "segment": "Trial Operations",
+        "focus": "Site performance, mobile protocol access",
+        "title": "Building clinical trial data return from the inside out - bioxconomy.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlhJX1huRGQzZ3pONlkzeFQ1S21XZ1RadWlTVWZVQkw2MHRobHFrV2o0LWdNZHhJWVRyaG5UbHFvdXVvRS1xZVVqZGtscFVRQVFDRTlpbks2UFFhU0Ftb2FqdmdNMDJONUc2ckdtd0ltUENtVXB3QXhQTnJhZndXU3lrVDQ2aFVvOTBiNjJ4XzNEMS1YbmxRRGtybnB6RDdnR0tHbEgwYw?oc=5",
+        "date": "Mon, 28 Apr 2025 07:00:00 GMT",
+        "description": "Building clinical trial data return from the inside out&nbsp;&nbsp;bioxconomy.com"
+      },
+      {
+        "competitor": "Science 37",
+        "segment": "Trial Operations",
+        "focus": "Decentralized trial operations via Metasite",
+        "title": "Science 37 Wins Awards for Transforming Clinical Trial Site Innovation and Accelerated Enrollment - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hakhvUFV0Wkt2dzZleVF6R3BVSk9qREF6YU9RYnp2dW8zdUNETVFEdHhaYjM4bVppTFlsUjRENHZvN3JCalQ5akl0MncyQ1ZzMmRzcDFCemlUNFBzVEF1RTlJSGV0VEZILW5SZ25jWldZN092T1dWdQ?oc=5",
+        "date": "Mon, 01 Dec 2025 16:36:57 GMT",
+        "description": "Science 37 Wins Awards for Transforming Clinical Trial Site Innovation and Accelerated Enrollment&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Science 37",
+        "segment": "Trial Operations",
+        "focus": "Decentralized trial operations via Metasite",
+        "title": "Clinical Trials Tech Firm Science 37 to Go Private at Fraction of Past $1B Valuation - MedCity News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXQwZElQY1I4dlJyUEZRRUptdUVmeFFhUnBCeEIyUWtBekpXY20xYnFyWURRdFBHRjMwaXZ0b0JidGN4OGpZYWh1RG01NFJZS1czMUY0a1FEZElYZUdXOGFUVlBPV3h0TmsxVWkwNzRSUVhSeUJmcjNaNHZjUUNja1RhNG9sRXdzMU9IbXZKS0ZNT29jTUYzUUhOZmp6MkRUd3NZdA?oc=5",
+        "date": "Mon, 29 Jan 2024 08:00:00 GMT",
+        "description": "Clinical Trials Tech Firm Science 37 to Go Private at Fraction of Past $1B Valuation&nbsp;&nbsp;MedCity News"
+      },
+      {
+        "competitor": "Science 37",
+        "segment": "Trial Operations",
+        "focus": "Decentralized trial operations via Metasite",
+        "title": "Clinical trial company Science 37 buys life science assets from Vault Health - MobiHealthNews",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFRJTlJfTVZRdE5MWlhNaGw5ajd2Z3dfQUNmZHd2SllrVkhnM3loVHM3OTFtZTVianlEaU0zNmd1WDZ3Wl9fZnNkTVdDc1VTMDVMb3pLcTB4SEowdGpNYTZWUC1BeEhGLVg5bjZ5Wm45QWN1U2M0M1ZmVzZmcUR0dTNuWHRWTUlJUDlHWkd2OXpqV1Q3LXdvcWpjYTdtemQtZ2lUb0ZHSFVYYjQ?oc=5",
+        "date": "Thu, 02 Feb 2023 08:00:00 GMT",
+        "description": "Clinical trial company Science 37 buys life science assets from Vault Health&nbsp;&nbsp;MobiHealthNews"
+      },
+      {
+        "competitor": "Veeva Vault RIM",
+        "segment": "Regulatory & Compliance",
+        "focus": "Regulatory information management",
+        "title": "Measuring Performance with Veeva Vault RIM - Veeva",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdER0RE9Fa1lVWG8wMU5lNy1IQjFRZllfMGpFUU5RQTZQOGZtT0FGcnhuOWFsaVhPVzA2VDM5dW9YYWs1MnVJeVoxQVdjQUZlc2trdGZPVlY5SVg1MUk0OEVKb2dRMlMxVkJOZmtWRGRhLXpHZ19oN2pxTGt3LUNMT0VGMlk?oc=5",
+        "date": "Sun, 22 Mar 2020 11:49:09 GMT",
+        "description": "Measuring Performance with Veeva Vault RIM&nbsp;&nbsp;Veeva"
+      },
+      {
+        "competitor": "Veeva Vault RIM",
+        "segment": "Regulatory & Compliance",
+        "focus": "Regulatory information management",
+        "title": "Blueprint Medicines Supports the Evolution of Regulatory Operations with Veeva Vault RIM - Veeva",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeWtyS0Z5Zl9DYUhEeWdDcHBYMlROcXJDT3FrUUItb2VuVGQ3NFhqQXpVaTBCRGJuRjhaRUM3M2V5OUVySHNRZHZ1YVY5WFBTM09Ed0dTaHJjTW1EMWJkRFV6cVhSNlJ5MW5ZclItdGVGZEFVcEpQZjZLRktsNEFZcHI2ZEpmX3UtTHlRMDEtWEN2LUhsTEZVcTAtOVE0SFZrR1loQjBhaFNPc0lEYXE3UERGMDNqRmQwM2p1TFN3RENmZw?oc=5",
+        "date": "Tue, 12 Nov 2019 08:00:00 GMT",
+        "description": "Blueprint Medicines Supports the Evolution of Regulatory Operations with Veeva Vault RIM&nbsp;&nbsp;Veeva"
+      },
+      {
+        "competitor": "Veeva Vault RIM",
+        "segment": "Regulatory & Compliance",
+        "focus": "Regulatory information management",
+        "title": "2021 Veeva Heroes Enable Better, More Patient-Focused Drug Development - Veeva",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWZld01CLUF4R2I5Smd6Zy1rdXhyMGhHZ0VZQlo3ZGxlc0lCeG56WkF5VlBDQlJqeTRzeXE5SnQybEhodHBzQzUwd2xzT0sySnQweVhDSG5yVVBEVWI2c3ZpUm5NNkJtcTRzT3FCUGhuczVmWUpwTmo0aWFiY2t4OVZlX0JET1lRd0xzR1lrZjBmNFZpR2hzUUUwYThvUQ?oc=5",
+        "date": "Wed, 16 Jun 2021 07:00:00 GMT",
+        "description": "2021 Veeva Heroes Enable Better, More Patient-Focused Drug Development&nbsp;&nbsp;Veeva"
+      },
+      {
+        "competitor": "Clinion",
+        "segment": "Regulatory & Compliance",
+        "focus": "EDC + AI for regulatory compliance and eProtocol automation",
+        "title": "Clinion EDC: Redefining clinical trials through AI - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80UHZVdHdjTVB4UlJYd3BiTFgwa2g2NDFfVGVNUkpzNXJXZXlmeWdCZUJVRmV4SmJNNzBMZmtjRE0xRDQyWHNRekwxOEc4d3VnVjVBajdKT1F6M1h0bThfaHhVX3AyNndSWEZiLWxSWTVRUXQ4?oc=5",
+        "date": "Tue, 30 Jul 2024 08:34:47 GMT",
+        "description": "Clinion EDC: Redefining clinical trials through AI&nbsp;&nbsp;Clinical Trials Arena"
+      },
+      {
+        "competitor": "Clinion",
+        "segment": "Regulatory & Compliance",
+        "focus": "EDC + AI for regulatory compliance and eProtocol automation",
+        "title": "Clinion and Clinevo\u2019s Strategic Alliance for An Integrated eClinical Experience - Issuewire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlNOUkIwVTZnX1o2ZkM1YUJUaXNiaEhTQzdoalA1M25nbGtIYm9WNXRLQTFucUQtSjFLS2R3YWJLd1hqaDQ2Ymh1VmFseFdmNFc4VFM4UnBjQ2RFMjFNbnBaSFNITHJMUkt1TFd5dU90Z1k4M3NYMlF6bFBZb1pUWUZ6ODJUUHQ5S2RuVXIybTB1M1dlc2ZCXzhiTEt2UXJycmZtWlo5TXFSTm1xN3Y5RUY3Y25oZTBidWxmOWR3?oc=5",
+        "date": "Tue, 18 Jun 2024 07:00:00 GMT",
+        "description": "Clinion and Clinevo\u2019s Strategic Alliance for An Integrated eClinical Experience&nbsp;&nbsp;Issuewire"
+      },
+      {
+        "competitor": "Clinion",
+        "segment": "Regulatory & Compliance",
+        "focus": "EDC + AI for regulatory compliance and eProtocol automation",
+        "title": "Breaking Barriers in Clinical Trials: AI and Automation as a Catalyst for Innovation - PharmiWeb.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2JqeFRYREphbGM3aE1zQzh5N2pfYk9jRk5fQzEwZGZWb0hYNExpNk02cTFuaWpGa1lGdmwzR1N4X3lzTWEtcXdZdHpBQTJOQ2t3TmlsQ1dmeG9Fc0xtcnBrWTVyb185a3RBXzgxTmZRbWduUTlWNGZNaEF1WHdOeWcwcGFVb3RfOVY4SF90LU1ndUptcHM2QVlNci1Tb1AyOGxwajYwdFN6N05tbnVpRy10ZFJCZlBi?oc=5",
+        "date": "Thu, 15 Jun 2023 07:00:00 GMT",
+        "description": "Breaking Barriers in Clinical Trials: AI and Automation as a Catalyst for Innovation&nbsp;&nbsp;PharmiWeb.com"
+      },
+      {
+        "competitor": "Model N",
+        "segment": "Regulatory & Compliance",
+        "focus": "Compliance and contracts for life sciences",
+        "title": "Evaluating the accuracy of ChatGPT model versions for giving care-seeking advice - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Y18tTjJOSGVkYVY1UmFDVG10V3hwd2dYZ3BCaFRJY2hhN3hZVzEtbFpfdkpLX280cE9MbzBOcEZTWE1pVG9YRlQyV2JmWC1ISVlTblVKOE5RVTZ0VzRv?oc=5",
+        "date": "Wed, 25 Feb 2026 08:00:00 GMT",
+        "description": "Evaluating the accuracy of ChatGPT model versions for giving care-seeking advice&nbsp;&nbsp;Nature"
+      },
+      {
+        "competitor": "Model N",
+        "segment": "Regulatory & Compliance",
+        "focus": "Compliance and contracts for life sciences",
+        "title": "Pharma\u2019s most underestimated cyber risk isn\u2019t a breach - Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTcweTBCb21PNmt5ZkVBUkpJbTRNR1U3VVd0VzJCeEI5SF9hcVlSTnpZQ3FzVHJYMkY4Z3B5Q3QxZGZ2QVo5WC1hOTdCNFJhWkFIZHdvWkhWTHpLbVctQjFoSUVGVXlKT1ZPWEZldmxxSXpFX2lyY1JFaFdkclFJNktmVDFjMnp3?oc=5",
+        "date": "Mon, 05 Jan 2026 08:00:00 GMT",
+        "description": "Pharma\u2019s most underestimated cyber risk isn\u2019t a breach&nbsp;&nbsp;Help Net Security"
+      },
+      {
+        "competitor": "Model N",
+        "segment": "Regulatory & Compliance",
+        "focus": "Compliance and contracts for life sciences",
+        "title": "AI model maps lifetime disease risks to transform future healthcare planning - News-Medical",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNERwLTBrYnF1Q0NKbkEySktSQUQwaHBhVWxRUk5MT25sRVZsaWZTalA2WlZrN0NqLUtwci1RVmU1YXBlYkJCVEV5ZDlBNHZJV1pSRkc2TTZQN3lmdXpqaF94T0xyeFhFVTFXVG5XUGtaSTc2dFAyQlRWSjBMM242QU1PVVVlS183Mmc1TnRmbVBVNmxTLWlYOGZFZHlrMkdLeGM4MUVCVGFQeWhZQXZqYXdfM3cwM18yN294eDR3UUswZw?oc=5",
+        "date": "Thu, 18 Sep 2025 07:00:00 GMT",
+        "description": "AI model maps lifetime disease risks to transform future healthcare planning&nbsp;&nbsp;News-Medical"
+      },
+      {
+        "competitor": "TransPerfect (GlobalLink)",
+        "segment": "Regulatory & Compliance",
+        "focus": "AI for multilingual regulatory submissions",
+        "title": "TransPerfect Solidifies Leadership Position in Language AI by Acquiring Unbabel - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSktqcjZlbDV2aVhicGZzLWxiVHNjQW1nWWhZSGlFeWstbDg0WVRtNVJUMkVIWDUwSnBkR1pLXzRteE5RcUJpVzJKQUluWjUwa3YtZ1U2SmlDUDhTcTBWSkNXTHB4aWE1LUhGS2dBRkJsUXBIUFFoREFDZFh0RFN6TjhfbTRfOVN0bzhPeGpqamxaMGpuXzR5VWtoUW1TYW5lbVJoYmNUUzEzRU1aTU9MYmx0SDNJU0MtZ19Ta1B6YXphamNIRnV3SmJKMmVsMUxI?oc=5",
+        "date": "Fri, 22 Aug 2025 07:00:00 GMT",
+        "description": "TransPerfect Solidifies Leadership Position in Language AI by Acquiring Unbabel&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "TransPerfect (GlobalLink)",
+        "segment": "Regulatory & Compliance",
+        "focus": "AI for multilingual regulatory submissions",
+        "title": "TransPerfect Tops $1.1 Billion in Revenue - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlhCOXI5UHBPOG9RbnlBZG90aGQ4NE5IZThqX2EwRXJ0MHlHY0RpTWd0WFdPWmNKR3poQnJFWmRjYmZXZU05dEVvbTR6TFpmakVUUGI5Q3hNbUNsdDM2Qy1wZHJyVFk4TnJEM055M0wyY2x2ekZEUmp1d21SU0hITThORkpMdVlPSXF4SzFJcVNaR2NvaE9lRWowQjFvTG1MdFE?oc=5",
+        "date": "Mon, 07 Feb 2022 08:00:00 GMT",
+        "description": "TransPerfect Tops $1.1 Billion in Revenue&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "TransPerfect (GlobalLink)",
+        "segment": "Regulatory & Compliance",
+        "focus": "AI for multilingual regulatory submissions",
+        "title": "Language Service Market Projected at USD 113.38 Billion by - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbGI3cGhXZkoyc1p1b2U0QVdFbDd4bFNfQjhNTU1KajBUNmlZR3Juazk3WHpwS1NoQWZzZDlhNE9KZHpHUHZRN0tSUElvYlVQeGZIbFc2TEk3QnlIck55dkNlLWlNbzFYLUtzcU8wRGR3Y0ctVTlDYnpqdF9fZURnajBadjBDUXpSWDFBb1h0MTRZMDltcERtYkwzS1dRYjNEZDN0emRBUE1BVlpRTHFieU1qQ005SGJ1RnhVVlVpTEF0UWozYnQwLUJmVjBiMUNGS0FhU0RTN2ZmeThKX2hpUWZqQ1J3enBRUlZpRXRhbk8wSXhOVUk1QjBzTTFkR05Wa0VhLUxYRHZlb1IzOEJ1dkFla3VDdEZ3Yk9zOGc0WHp4ZTc4M0pvaXdhdw?oc=5",
+        "date": "Fri, 17 Oct 2025 07:00:00 GMT",
+        "description": "Language Service Market Projected at USD 113.38 Billion by&nbsp;&nbsp;GlobeNewswire"
+      },
+      {
+        "competitor": "Owkin",
+        "segment": "Broad Platform",
+        "focus": "Multimodal AI, pharma partnerships, drug discovery and trials",
+        "title": "Roughly 10% of drugs that enter clinical trials get approved. Owkin believes agentic AI can help fix that - R&D World",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYl9NeXlRYXFLWk85eXNUMzQ3YXlrb1NHU2lDSGEwUGxQUmR6RWF1WU5pQzlkekl4dDBFWElyNWlIVTVvbWNkQ3ExdHVHSkRmZmdsRnRseF8xOXN4S2h5V09FckJlbjNGNXA3RC1ndzg3QXQ0WHZJUGdXX0pZX2FrZEI0Wm5YNk5qUlNDSlI2ZjFTNDBKdFFXZG9OTXB1WlJYdnhKMzlPNmVvSmN5X1hHRElPTUtRVjM0YWdZa1dkQTNKN19pd05PWDFMRQ?oc=5",
+        "date": "Tue, 31 Mar 2026 00:06:44 GMT",
+        "description": "Roughly 10% of drugs that enter clinical trials get approved. Owkin believes agentic AI can help fix that&nbsp;&nbsp;R&D World"
+      },
+      {
+        "competitor": "Owkin",
+        "segment": "Broad Platform",
+        "focus": "Multimodal AI, pharma partnerships, drug discovery and trials",
+        "title": "Owkin unveils biology-focused AI agents for clinical research and drug discovery - SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWxSRUcwSlIyeHVPT1M4bmxfZEZ3OW5HdXNack5BT1N0Zl9qMVVaYzhLTW1LUVFnOTZpTGp2QnBWV2FVdTdMc2JEeDRaUjhVQUd1Wmo0UEtzdHRlM1g5YVFwT1FhcS1sdVVlLXdrSGcwaHIxckZTUEcxQ1JzX1pibFY1TVg5MjJnRjEyTi1kbU9NOXljNHlQekhsUGVHLWFDUldDSVJqSjhEblk2WFE?oc=5",
+        "date": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "description": "Owkin unveils biology-focused AI agents for clinical research and drug discovery&nbsp;&nbsp;SiliconANGLE"
+      },
+      {
+        "competitor": "Owkin",
+        "segment": "Broad Platform",
+        "focus": "Multimodal AI, pharma partnerships, drug discovery and trials",
+        "title": "Owkin Creates New Spin out Waiv, Formerly Owkin Dx, With $33M Financing - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTFVSkFkdWpNZ3VtYTgwY2htVFpsaHZScjI1dXU5WU5kZzBzSEJhanZkdDd1Rnl4TmNNeUEzLVlKRkI0REdUblhiRXhNbHRhZVJrZE5sLW44eERrQkhxQThiT1R3TXo4aTh4bkNPOWszOWxIYVB5UnpFMW91ZDNtNXhVaUZQaGY4U3I1SnhvUzVXWW1CVmlOckFMd0tHenV3d18tX25KQTVMbDdMWTg3NnNvYTZ1WUw4SDQwRUVNbkFJNHNXSWdR?oc=5",
+        "date": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "description": "Owkin Creates New Spin out Waiv, Formerly Owkin Dx, With $33M Financing&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "NetraMark",
+        "segment": "Broad Platform",
+        "focus": "AI biomarker and trial optimization",
+        "title": "NetraMark Taps Landmark ROME Trial in New Precision-Oncology AI Collaboration - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQW5CUmJWZVluQ2RaZk9Fc1hIaDcwXy1yYTRYbDBJMGc3S3VqU1V5Zll6R1JqSnJLMGlaMno2dVZOWVpDYUlzeUhPVTNxZ0V5TDhPR3NoWkVtZ3Z5Snp2N04xaUlsc184LWp4cURXaTdUODY5LUx0UVU1Q1NjM1FBWjNUTXBReXprMGpKSUlaeVRvWGVuY0RmZ1ktVzhWR3B3MXBSbGFTdkdycFRwXzBfOGpsUm5meHE2SHpHT0xYeHZYSzh1aDJnUEt0UVctRm9Temx4N1Qtd192cXhGM0UtWDdISW0wX1RLSUwtZjNzNzNVcGQ5?oc=5",
+        "date": "Thu, 26 Mar 2026 16:08:00 GMT",
+        "description": "NetraMark Taps Landmark ROME Trial in New Precision-Oncology AI Collaboration&nbsp;&nbsp;The Globe and Mail"
+      },
+      {
+        "competitor": "NetraMark",
+        "segment": "Broad Platform",
+        "focus": "AI biomarker and trial optimization",
+        "title": "NetraMark's AI Platform Enters Oncology with Key Research Partnership - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1BGMTRvV1BFTnNCSFFsbFJJcVJiVE9ReWlFWTlYdEV3ZFhZa2NYeHlDeHdIX1NVVTJ3dWJxUGNsUDBIQzdVVmlQUU9NVjE2OFhQZXB5YkU5TEFybFN3VW1FT2ZpZG04b3MwR1hveEZUT1dwUGU2enBKR0hkOFF1enI2N1pJN0d0RktEUGFjbVY5STN5VnUxVEhZLWx6WWZCM296UUMtd0FOTmg3a0JwWEtjUHlQekpxNkswWlJ1TG9UanBfY2I4?oc=5",
+        "date": "Mon, 30 Mar 2026 23:28:38 GMT",
+        "description": "NetraMark's AI Platform Enters Oncology with Key Research Partnership&nbsp;&nbsp;AD HOC NEWS"
+      },
+      {
+        "competitor": "NetraMark",
+        "segment": "Broad Platform",
+        "focus": "AI biomarker and trial optimization",
+        "title": "AI will sift 400-patient cancer trial data for responder subgroups - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYURiRUNvd25hQ0haZm15bDV3UjNSaGhaMmgwc2JHSmpyZjN5WXNFLS1qQUFZS0psbmYyWkJON1ZwdFlvNDUySmgyYlFkWDVEaUZKamRKbGNpaGpSN3laNEZNSjhlVUNMeHhIR001VHNRUURNVnE0OUZrb2xUZ3VfNzBJeTVIWDNGS0cwek5FLW85MF93YVYyZE9IcFl6RklQd2s0dlRHNl9nVjI5WHdLMlFidGFsUG04d1ZRZ0hkdWE?oc=5",
+        "date": "Wed, 25 Mar 2026 11:00:00 GMT",
+        "description": "AI will sift 400-patient cancer trial data for responder subgroups&nbsp;&nbsp;Stock Titan"
+      },
+      {
+        "competitor": "Insilico Medicine",
+        "segment": "Broad Platform",
+        "focus": "AI drug discovery and clinical trial design",
+        "title": "Eli Lilly & Insilico: How Generative AI can Transform Pharma - Healthcare Digital",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjRvVEh0eVN0S05YdGZ6ZkQ1dFpuVHBnTmk0UG1jT1NSRTNjNVRzVlNjSWNiVmtHcFVUOFNRaVF5LUlJLUtqcmtBTnREZUVTQTdqQ1JhVTFvUEQzSlNidkxVbC0xR3NRdkIzcnloTzFuRm1FRjVEbHo0OVdxU29IZzBlU1VjcXhWaGcyS1l3?oc=5",
+        "date": "Tue, 31 Mar 2026 15:41:07 GMT",
+        "description": "Eli Lilly & Insilico: How Generative AI can Transform Pharma&nbsp;&nbsp;Healthcare Digital"
+      },
+      {
+        "competitor": "Insilico Medicine",
+        "segment": "Broad Platform",
+        "focus": "AI drug discovery and clinical trial design",
+        "title": "AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion - statnews.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmNMZno2a2N4NmlSLVMyVDBrUGhzV25EVUVsUVVabGxRWlI3R0gwVjE2dXA2VVdJbmZhcFI3MkZpWE1NSWRpdFh2VUdQakdid3JyOFBuTV9WYjVrTTBHM2wxdE00ZFlBVEJZaFVTVU91VXFHVmVGV3l3cmhXb0JtRDVyelpub3lCd0kwYVg3LXNzdTl6YmgzdnVmeTI?oc=5",
+        "date": "Sun, 29 Mar 2026 18:09:07 GMT",
+        "description": "AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion&nbsp;&nbsp;statnews.com"
+      },
+      {
+        "competitor": "Insilico Medicine",
+        "segment": "Broad Platform",
+        "focus": "AI drug discovery and clinical trial design",
+        "title": "Insilico Medicine and Eli Lilly Form $2.75B AI Drug Discovery Collaboration - HIT Consultant",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSF9ydGU2a3JjNjU1anAtTnd0NDZNU0Z3VDJJV1lKaEVRSnpDMDV5OU04UnBJdElkTjFUY2dsMDZzUXNScUwxQURVQ3hVaUZJMFI1TXc3VFNQbi1hQ2xOd3RjSUFiem9TTndMbzRxR1ZQS1lIay1rTnhfeldtUXFLTE1UYk9scU15b3ljYUNRZXhuUmJBOGtNM3pXN0ktV0NfSF9fS3RMdUdMeGE4cnZCdndR?oc=5",
+        "date": "Mon, 30 Mar 2026 23:20:07 GMT",
+        "description": "Insilico Medicine and Eli Lilly Form $2.75B AI Drug Discovery Collaboration&nbsp;&nbsp;HIT Consultant"
+      },
+      {
+        "competitor": "BPGbio",
+        "segment": "Broad Platform",
+        "focus": "Bayesian causal AI for clinical development",
+        "title": "BPGbio Wins 2025 AI Drug Development Innovation Award from Biotech Breakthrough Awards - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HeDVpY29fYUUyWjJJa0F2R0JDQ2VTcDM3QkVqRUxhUDhWbHZqUk1yNEhKWG5vNTA5UUUxamozeURFbWZQaFdMRFZ0QnFZMnkydU0xM3BqQ2VjbFl4YzlKSnhwcW1uZmRsMnhtS1o3YnVCM0l5ZkQ0el9R?oc=5",
+        "date": "Thu, 06 Nov 2025 08:00:00 GMT",
+        "description": "BPGbio Wins 2025 AI Drug Development Innovation Award from Biotech Breakthrough Awards&nbsp;&nbsp;finance.yahoo.com"
+      },
+      {
+        "competitor": "BPGbio",
+        "segment": "Broad Platform",
+        "focus": "Bayesian causal AI for clinical development",
+        "title": "BPGbio Announces Publication of Pioneering Solid Tumor Study with BPM31510 IV using Patient Omics and Bayesian AI to Guide Clinical Development - BioSpace",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMGhsRUpWWHdjZXJ0eE8wd21qbzRmQndJRjFaNjRWVnFjbjBwN2pBLTR4czZjOENZMmI2NjVYMmVLcS1PbVFNVlU1b2djdjh1eUpMLVZjSDJpdFJRTXpJaWxxOXI5WHJzX3ZKNWFFclRma05DWWhQYWhPMjdnUGxjSXZmcDNfd3djOXJiUzRUd1RES3ZxelNkQ042bUhBUjlveUJ2ZGtGNV9SSk85X2cyQ3lJT3dvOVYwSFVEdjNCRVZ1bUd4UXQybmljMlduZFNkTVJKTDFHbS16b0dHRkhUYm04ck41R1FGcHJSSmp0N1plQUFaaXZqWGZudHp1NGZaWklFZG1wOVdOTzgwV01fNw?oc=5",
+        "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "description": "BPGbio Announces Publication of Pioneering Solid Tumor Study with BPM31510 IV using Patient Omics and Bayesian AI to Guide Clinical Development&nbsp;&nbsp;BioSpace"
+      },
+      {
+        "competitor": "BPGbio",
+        "segment": "Broad Platform",
+        "focus": "Bayesian causal AI for clinical development",
+        "title": "BPGbio Receives FDA Orphan Drug Designation for BPM31510 for the Treatment of Primary CoQ10 Deficiency - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPb3BIMW5aSHRIZmV2Y3dwbGF1c2FabWRuS2ZXcXpwcUowc2R6LWVKb3R6TXNqeVQ5dXhuTUxRSjVIckl2ZDhWbVdWM2k5c2dfR2FSYUQwcWRoNlJBSWVLV055Q2cwandXN3I1bVp1S1NjcUF4X0FuMnF1X3ZBbXJvTU1QbnJLRk5BN0xNX1RBNEwzUm9yMlhPblI5bVotbWNiRVV5MXhKaGQ1NEpoQ09yV0ZRNERKQlEwUGt6UEJ5T1Jma3pVbkxERDJGeXFZYkE1Z0QyRmQzajVVTjVOYzFhQXY1RVhjWUM2c21Rb1dHZHAwcy0tbEczeER4c3hzMVlnTEZ1TA?oc=5",
+        "date": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "BPGbio Receives FDA Orphan Drug Designation for BPM31510 for the Treatment of Primary CoQ10 Deficiency&nbsp;&nbsp;GlobeNewswire"
+      },
+      {
+        "competitor": "Lifebit",
+        "segment": "Broad Platform",
+        "focus": "Federated data, computational biology",
+        "title": "Lifebit Launches the World\u2019s First Fully Agentic Federated Platform - Redefining Trusted Research Environments - Florida Today",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLVVSY05wSWI3M19jMWp6TDJkX3BrakxpQ3B5RlZUSWZydzhkX01tbGd2TGdjZG9kRVhaSkZFeXkwU2pBTzlBMzlMMUdGaHJ5dk9FdFE2N3ZzZG1XSk8tTU90UlY3U1BzWVd3UlhBZS1BMU1xMVgzZmxzTHozSzNIOGVZaTZBVFZPOWhzRTg5Q1UzcWpITTNDOEgwS0ZvV093Wm1qczUxMjdiZmxGSkhZRV9jX0RKU0diUEJCSFFSZjd0NVVXOG9MWkZjRl9lNWw3YTdaMTlWMXF3aW1RN1BLTDRUV2s2dk5YN3JkX1BqeXZmNlNFcXc?oc=5",
+        "date": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "description": "Lifebit Launches the World\u2019s First Fully Agentic Federated Platform - Redefining Trusted Research Environments&nbsp;&nbsp;Florida Today"
+      },
+      {
+        "competitor": "Lifebit",
+        "segment": "Broad Platform",
+        "focus": "Federated data, computational biology",
+        "title": "Lifebit and Flatiron Health Bring Cutting-Edge Research Technology to Japan, Advancing Global Cancer Care through Real-World Data - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPYW1GdTZ2TlNQbXFscC1NN1VkdHBPeXBLUDlCVFJtb2ZOQlctcV92OXo3bVlVV3ZMV2hacEJjNHRqTi1JWmlwOGlrSTdKdzBNM2V1aDJWNC1UWG5fOTZFajVVNE1QbDZxbTZNWV9HMmlEbUh4ZWJ6QkZvT3BfTm9EWTdrbWJfT3pJMUxGTWtJQnRNX0pkQlIybWNmNmpnbG1VOGl3cEtUeDY5NzNMMFZmOGRJVTJMT2lCdFl0YUd3ZzZSM3d3LUxkallQdkNYRnJUcjN4MWh3dGNOMGZ6cm1rQXJPS25fTVdoMGEzeWFwZnNTZHlHemU5RTVCTHRqaHkyeml3MXRaNW9NOGd5NlpCYlJhaw?oc=5",
+        "date": "Tue, 08 Oct 2024 07:00:00 GMT",
+        "description": "Lifebit and Flatiron Health Bring Cutting-Edge Research Technology to Japan, Advancing Global Cancer Care through Real-World Data&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "Lifebit",
+        "segment": "Broad Platform",
+        "focus": "Federated data, computational biology",
+        "title": "Boehringer Ingelheim taps into Lifebit's AI for global disease surveillance - fiercebiotech.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2F6T3ZIemVaVXhDMDZhaXNjaUZUYWVQdl8xWkhfdnZXTEVEWG51bWo5TnR4Qlk5R3JsRDNoamVEYnVsb2J0RlpQc3pEUHcwa21KMzVGN0ZHSmdCZXFjYjNKeGNxNUFRZ2N1X28xcVhybXMwNGRMZFdIZ2ZwdU5Qbkp5UzFFZndSQy1nNnNhYkU3RkJUOWhFY2ExeGZscXZTazUxZ0w5ZHNQS2hqVThCZ0hhdw?oc=5",
+        "date": "Tue, 08 Jun 2021 07:00:00 GMT",
+        "description": "Boehringer Ingelheim taps into Lifebit's AI for global disease surveillance&nbsp;&nbsp;fiercebiotech.com"
+      },
+      {
+        "competitor": "PathAI",
+        "segment": "Broad Platform",
+        "focus": "AI pathology for clinical trial support",
+        "title": "Labcorp, PathAI expand partnership to offer AI tech for digital pathology diagnostics - fiercebiotech.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2p5bXppZV8xMS15djMtZ1dSWm4zbThQOGNWeEdET2pGNkpRTEtxQTY0Ylgwb1BWMEhxeGxmNFBFLTlaQjA5azBUSHFaelFuRU96eU1NNG9fVEs5dUJsUEZaYzM1M2dPSEJuNzlYMGtZbzhIak9mUDRIeFRNUHN5OF9naHA1SXlILUFRQUJiTEdPWHc4RjAwZ0xSV1pJR2FZWXRHeE5YUl9OYWVjSWdicTNodElpdw?oc=5",
+        "date": "Tue, 24 Feb 2026 08:00:00 GMT",
+        "description": "Labcorp, PathAI expand partnership to offer AI tech for digital pathology diagnostics&nbsp;&nbsp;fiercebiotech.com"
+      },
+      {
+        "competitor": "PathAI",
+        "segment": "Broad Platform",
+        "focus": "AI pathology for clinical trial support",
+        "title": "PathAI\u2019s AIM-MASH AI Assist Receives FDA Qualification for MASH Clinical Trials - Clinical Lab Products",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaFZPOWMtU0hfSVl0X1kxcWhodkEyZmVRUVoyS0xCRktuUThySlhVeDNCZy1oYmpEVjVRSFI2Wkk5YmI5VTg1cENrcUFzeEcwdWY0TDd2TVVoVHBERFdpUTI4V1piV2hwT08zb1JnYkptdGtZUU1uYXQ2WlZobk1VYlV4Mm1BWV9MOS1scHlCYW1IcEpRd0t1bWtiNWVTMkk1VnRqaFMwTERFV3AyVWQtM2JZc3lfVk1SeUNCZjNiTUx5WkNXMWI3aURUTE9WUkF4RlctU3NoWEZlaFRmd2dNNQ?oc=5",
+        "date": "Mon, 29 Dec 2025 08:00:00 GMT",
+        "description": "PathAI\u2019s AIM-MASH AI Assist Receives FDA Qualification for MASH Clinical Trials&nbsp;&nbsp;Clinical Lab Products"
+      },
+      {
+        "competitor": "PathAI",
+        "segment": "Broad Platform",
+        "focus": "AI pathology for clinical trial support",
+        "title": "PathAI's AIM-MASH AI Assist\u00b9 Becomes First AI-Powered Tool to Receive FDA Qualification for MASH Clinical Trials - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTWY4X2hkai0zMzN5bVFJZi0zOEFYZmtNVUpKY3RKMFVCT1hCUnlXUjhYRXVjb0hpdUlsQ19VM19VeTNzUlR4QnhGRERwdTV6alRmaEx2eFUtVFJ4ZnRhQ3JOMXhnTVZ6RFE5cU1fMWpPWE5yX2QxWmdUSHdXOElvSUpkcXJMeS0zYVU1UmpoUmszRFdoWmdKWTFBWnZxTGRpbmhxMlNqRFFFOElnRTdDUjI0UVNvZVlNaFZSQjBiaHVQd1RQNVpkbDA4VG5xVnFNUktEUEhoXzNEYmh2aVR3NFpnYXowN0NwZGlJVkRqbmg0RjFZaGcyRHJDMVUxWE9tdThlTlIzdl9VcVpVN1NYUw?oc=5",
+        "date": "Tue, 09 Dec 2025 08:00:00 GMT",
+        "description": "PathAI's AIM-MASH AI Assist\u00b9 Becomes First AI-Powered Tool to Receive FDA Qualification for MASH Clinical Trials&nbsp;&nbsp;GlobeNewswire"
+      },
+      {
+        "competitor": "Komodo Health",
+        "segment": "Broad Platform",
+        "focus": "RWE analytics, oncology trials",
+        "title": "Komodo Health, Anervea.ai partner for clinical research - MobiHealthNews",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNE1za0M0b0Z1SDNVY2JiZlBXc0swTFo5aUZ4WlJicG1lcTctRWhkaURncWdLeERibVAyanBHd3dWX091UzhOV3MwV1FVWmdqWlhicjZNYzVDZ2d5N0NSSURtck5CR3JsdFF6UFkzMzV4Z2Ytd2lKbU5EUTlVend1QVBSek1HQ2x2ejdBTnlB?oc=5",
+        "date": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "description": "Komodo Health, Anervea.ai partner for clinical research&nbsp;&nbsp;MobiHealthNews"
+      },
+      {
+        "competitor": "Komodo Health",
+        "segment": "Broad Platform",
+        "focus": "RWE analytics, oncology trials",
+        "title": "Komodo Health and Anervea.ai Partner to Accelerate Clinical Research with AI - HLTH",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0lIVUtleVZxQWV6RUNTblBMYkJQQUtPWEFMcEs0YmJwbE04WTV0V2p5M01QUmI3RnRmQ1JZdXhCMktvakFuc0Fqc0Z2d2NMMGxWNnBRZDhldEZRTmV3SWptOExoRzJCTzJGSmNoWTl5S1lmMEdSeHZIakxZTVpnTlpDZnZ3cmVrdjVJcDNUNGQ5QnhnaHJVakxiRGlVYV9MdkxWNWpabHRHRUQxcEFKUHUyanBscEI1YWc?oc=5",
+        "date": "Thu, 24 Jul 2025 07:00:00 GMT",
+        "description": "Komodo Health and Anervea.ai Partner to Accelerate Clinical Research with AI&nbsp;&nbsp;HLTH"
+      },
+      {
+        "competitor": "Komodo Health",
+        "segment": "Broad Platform",
+        "focus": "RWE analytics, oncology trials",
+        "title": "GeneDx and Komodo Health Partner to Build the World\u2019s Most Complete Longitudinal Rare Disease Dataset - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNVR1S25ZSG9TR3ltTkhnNm96Q1I0Szg0TEJqSmpveUlhMDBTVnlXUDFQdWtpNnBvdG50VlBBNVRtRmgtcmp6VjM1azJ6RXVhcUd2U0VadWZ6eDVFUWlfOHlSb3VuUzVTOGR5czNfdEFJTHNCQkFnbzg2dy1NbEJaVG0tM3BvUTBGS2RRZm8yVlVidnZ0TWFyNnVjWU5NSk1mX25kWTlkYkhPVzVhX291U2xHa3lDZnB5cGNiZUxIU090ejJGZGNjTXN1T21zRHlwbHdoSHVJbTlMMU9IM1pQM0JQeFgwRkFzWGVPRkZR?oc=5",
+        "date": "Thu, 08 Jan 2026 08:00:00 GMT",
+        "description": "GeneDx and Komodo Health Partner to Build the World\u2019s Most Complete Longitudinal Rare Disease Dataset&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "Amplity Health",
+        "segment": "Broad Platform",
+        "focus": "CRO with AI layer",
+        "title": "Amplity Health Study Identifies Major Gaps in Biomarker Testing and Targeted Therapy Use In Non-Small Cell Lung Cancer in the United States - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSEhsSlhfWURDeHlNWW9iQUJ6cjJqUHJjZ2drMWZsUjY3SG1Jck43bEhWcWZxbUYyTkV2d0Z1RXFlbHdiZmFXNENiQ0tIT2NlSHZoRVM1U0tPVFAxaHNCNDgxcWNsZXNSQ3BnMTJuSG1ray14bTZOWERHcTJRc2d2NzluSlRfWTNaVGE4MnlMX3ZScGRvS01vR2QtVkxKblJhX0Q3cXI1SG92VEk3SXBnRnRvT3J0SDY1T3h2MEczZkhnTEpBVDhNd0pSTkhFN2hoczNaN0UxbmNBSk5IcnY4OVlZeEdRbF9rUWRkcmRJckVLeU9aUDZodm5lTHpxNFdTLVZseDNNZFhSOF8xTmpRRTFneEx4TEVIVmVRZXBZTEc?oc=5",
+        "date": "Fri, 07 Jun 2024 07:00:00 GMT",
+        "description": "Amplity Health Study Identifies Major Gaps in Biomarker Testing and Targeted Therapy Use In Non-Small Cell Lung Cancer in the United States&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "Amplity Health",
+        "segment": "Broad Platform",
+        "focus": "CRO with AI layer",
+        "title": "Artificial Intelligence (AI) in Medical Writing Market - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNRmxjR21VNlNsVkRCU0Q1M3QyS1U4cWw0Q2VVZGI4QktXYlp2Qm96Y28wWlMtbVNBTWNyNjVQREY3QUhpcURJanhlYjVvelB4MElsUzJjbWFVNGVvU1ZTRlJtR1hCeGo0ZTNuV0E0X25VR0FMb2tNcnYwbHh0RTNETWlMNjVhZWktNjl3aVcyTW9lSlNUS3hWUHhBUmkxVi0zSWRzRWU3ZGdlbEh0cDJvRE9XVU5YaXMxeG9GTWp5TTZSZ1V5cVpQMkdtbG1wYUd0b1o1LWJfQU8xNjNmNk1HYVdNdVNadVRSelVIc2dPbnJlTVpiazY1NU9vN21KTFRvNHI0dFpnU3JzVnljcjN3b0tLVW9BTXJYYTlYOHo3WFRobzNvaTNSc25QNVhoRFlwN3QzTGNFLS0xSlNabjdNOFBucmNKZmcwSFBuR1Q4T3B6VEVsR3pFVkROWnZLbFg4?oc=5",
+        "date": "Wed, 25 Sep 2024 07:00:00 GMT",
+        "description": "Artificial Intelligence (AI) in Medical Writing Market&nbsp;&nbsp;GlobeNewswire"
+      },
+      {
+        "competitor": "Amplity Health",
+        "segment": "Broad Platform",
+        "focus": "CRO with AI layer",
+        "title": "Amplity Health Announces Leadership Changes - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE8zbzI4TlRTLW1yNzBZWFVhNW5oV1ZYeGdmNVpwV3BHTDNKWkh0LThWNTl1Z1ZKRHo1MmZFNHR2bjRneE0wQU5BdXhSZ0JvS0U1ZFlDb0lTam5aclMxeWtJLTBUUklvLVl4LTRYemxtMmJYTDd0bzJuVHVxWTJwOEg2OWl0U0dURFZ2ZlFGN3hpRGUyYVNLc0g0SFVhcjZ2?oc=5",
+        "date": "Mon, 05 Feb 2024 08:00:00 GMT",
+        "description": "Amplity Health Announces Leadership Changes&nbsp;&nbsp;PR Newswire"
+      },
+      {
+        "competitor": "ICON plc",
+        "segment": "Broad Platform",
+        "focus": "Global CRO with integrated AI tools",
+        "title": "ICON Survey Reveals Increasing Clinical Trial Startup Delays, Underscoring Need for Human-Centred Site Activation Solutions - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNFVNcEcyM2JwMXBJdmJ2bE9XY0I4Q0R6blJ0V3RSaFN5OThiY2tKOUZ0WXZhU0YzT3lrN3dGLURrTkFZNGhXZFFYQXJRREhUdFozMzBXQUxNWHQ4M0V0dmZ4aGxpR0VnV1RqMTdOdmRDWDBRQ1lqbUpuUHNtZTIxVlNMeVVtRFBFOWJ4Sk51cy15MTR4aHNhMWRoQTJKUnlwdEQxblo5VjdPLS0ySWhsQkRIY0l0YW10XzU4WVdRelEzV3Q3elhWUEJ6ZzgtMXVKUEU1Ql84S25IMHlybEJ4RGptRHZyZGlybFVyN01XNUpYck5LbV95WC1kZk81cHNQSVlSZ2tGYTJNRjg?oc=5",
+        "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+        "description": "ICON Survey Reveals Increasing Clinical Trial Startup Delays, Underscoring Need for Human-Centred Site Activation Solutions&nbsp;&nbsp;Business Wire"
+      },
+      {
+        "competitor": "ICON plc",
+        "segment": "Broad Platform",
+        "focus": "Global CRO with integrated AI tools",
+        "title": "Top 10 Clinical Trial Companies in the World in 2025 - Straits Research",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXZVUEhwcFdCcXJyb21Xa0k4bEtEc0FzOWZnaTdjd2J5TkxEQjdOYlZaajRJTGg3U3ktT1RKbmROcGdfQzc3bTdMV2dMU1BCc1ljOTUzNnRzanB2SVB3M3dQendSUHJtTlRpejFjWEtCdDBNT0JGRHBOU185b1U1OFp3ckZPSk95Vlo3YURB?oc=5",
+        "date": "Mon, 06 Oct 2025 07:00:00 GMT",
+        "description": "Top 10 Clinical Trial Companies in the World in 2025&nbsp;&nbsp;Straits Research"
+      },
+      {
+        "competitor": "ICON plc",
+        "segment": "Broad Platform",
+        "focus": "Global CRO with integrated AI tools",
+        "title": "The Clinical Crisis: A Deep-Dive Into ICON plc (ICLR) Amidst a Transformational Storm - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ0JUUEd2R0czd0ZkOHJlUFVaWXpxUzI1TVk4SHR0SUZFSGh0VmxKYThRZFhxMWF1NW84Q2J6ZE94Yl9JRHdFMF85Qno3ZlNKX2RwQWhCZkxkeGM0OHlsV2NBY2lLY0ZuVTI1bVNmVl8zLUVSaXdQTTVFQl8zMWdHbUJrcTI5dGlkYmVyRHRpTDM5ZlN6b1NzUGdlaGZiTHRlTmRpWDBzRk96cmY2UTNTTHVwRWx4YWs2OHJjZlF0M1dOam1lYWxHTFFzejNrRTFoa1E1Vkt6NDZSaGc2dkMtOHlyYmVzS3Bv?oc=5",
+        "date": "Thu, 12 Feb 2026 08:00:00 GMT",
+        "description": "The Clinical Crisis: A Deep-Dive Into ICON plc (ICLR) Amidst a Transformational Storm&nbsp;&nbsp;FinancialContent"
+      },
+      {
+        "competitor": "Medpace",
+        "segment": "Broad Platform",
+        "focus": "CRO with data analytics AI",
+        "title": "AI Fears Hit CRO Stocks, But Drug Trials Still Need People - Finimize",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEpaVERlY3hPR1RnVEV1cXp1UUtSSW81dmphNE1QQzlqNDhVYTRnajJxUl8xbjFBNXFKLS03U3JqaXJBenNyV3BBTHgwYndyQm16RE5oYUNwTFgtazUwM0pUVlU1dm9KX2s2YzVVU1R3T19HakFUU3V6WHZNNXBqTEVnLWJzNUVGU1JraWZiTQ?oc=5",
+        "date": "Tue, 31 Mar 2026 10:10:48 GMT",
+        "description": "AI Fears Hit CRO Stocks, But Drug Trials Still Need People&nbsp;&nbsp;Finimize"
+      },
+      {
+        "competitor": "Medpace",
+        "segment": "Broad Platform",
+        "focus": "CRO with data analytics AI",
+        "title": "Medpace (MEDP): Assessing Valuation After Revenue Growth, Buybacks and AI-Driven Clinical Trial Expansion - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzVFNThOeFR6NVNZbkNoajVFU09CQjY4VlBhOXdaeGRUclBtR2piSEcwR21wbFJmRXV0VGVvaGk4bXc3eWc5VFpJMkswQ3J0OEVVN1VPNEdYOUlZV3VTZnY4Z1Y4a2p1N2xRN2IyQWlTUTBjRlNzOVVTUmNwVndLYmtRTWhwZ3NuODAtb0c3RQ?oc=5",
+        "date": "Sat, 06 Dec 2025 08:00:00 GMT",
+        "description": "Medpace (MEDP): Assessing Valuation After Revenue Growth, Buybacks and AI-Driven Clinical Trial Expansion&nbsp;&nbsp;finance.yahoo.com"
+      },
+      {
+        "competitor": "Medpace",
+        "segment": "Broad Platform",
+        "focus": "CRO with data analytics AI",
+        "title": "Does Barclays\u2019 AI Reassessment Reframe Medpace (MEDP) as a Higher-Quality, More Durable Growth Story? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPejJJd2J4d2VFQWhBYU4xdlp6dmdKZkRYN280SURoaWtmb2lXSkVJM1p0SFBOeUJxdGcyNVlEZjlsVnJadFRwd2Vyd2JQSTZma05kTVFiV3hmcUFGRjhUVjg0V0hQdGMtcE0zSW84ZzV5akE4V3lRM1Y4eXpnYXpQbndxMy03OGctNEhQU0hjMEJoelFtYWFoR2FpQ3Zzc0otN0JjNFk3cG4wLUNwNldhR0FLOFZ6UWV6eUN0OG9zRXZYOThIZldyc2VYSnZHVG5obEJFaWUxVEQxZ0IwUXpjVFFJLVbSAeoBQVVfeXFMUFB3ZjZYaXJKbHB0dktMSE0yNjFvTGlZcWtqSGlPbFZXTDR5MHdYQzdYMXFjWEhsakIzNFlkYkZQN0NUNWZLWjB4bG55TE5JQUpNQlE0S1pPVHd5TDc5NFVKRU9UeDRMdnVwOVFPbDB2R01nNlBzM0hDeURESWNsWnd2X1J5UHZ0NTZ3X0k4djVUQi1OWFZudmZrLWZXSUJJZHFtOHVMcGR6MEktQThBckFUOUd3Z2QyeUlTeWZLLV9SLVJZSmdleXpuS2pkRU5xblhFYmhrYWpXLUFwTjNMM0ZYMG5wVnJoY25B?oc=5",
+        "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "description": "Does Barclays\u2019 AI Reassessment Reframe Medpace (MEDP) as a Higher-Quality, More Durable Growth Story?&nbsp;&nbsp;simplywall.st"
+      },
+      {
+        "competitor": "Oracle Health Sciences",
+        "segment": "Broad Platform",
+        "focus": "Clinical data management AI",
+        "title": "Clinical Trials Support Software Solutions Market Size to Hit USD 30.78 Billion by 2034 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZkF4NlNNeFpUUnZKUVlrUDlMVFl1OVNrRUpHLU9wNWRReVRQNGJ5T1g3d3A5MTB1cXZVLThsV0lsMnJVZDNmekxTNEs3N2FDS1ZVeEJ1N29jVnRZVVdia1JGVDRRVGhjcDdMb281Vi0yV21EUmZBNVJ0dl82YnhfTHlvdGwwZVhMdXVDeFMwVGdUU2NtazB2UXczR1U1aXFNNnRGa2xTRGI3M0dMU1BRclpqbllFZC1ESFM0czVfdW5BaFl0aWREUVoyVUQxMDJLdkhxeWlZdjVSa3c4bHlNbTNJa2JXLUFOQzJyRGtyRjc?oc=5",
+        "date": "Thu, 20 Nov 2025 08:00:00 GMT",
+        "description": "Clinical Trials Support Software Solutions Market Size to Hit USD 30.78 Billion by 2034&nbsp;&nbsp;GlobeNewswire"
+      },
+      {
+        "competitor": "Oracle Health Sciences",
+        "segment": "Broad Platform",
+        "focus": "Clinical data management AI",
+        "title": "Survey: Lack of Confidence in Clinical Trial Data Delaying Drug Development - Oracle",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSmc0TDF6SGJ3RnlEQWhWMlNIQXhFS1lKcktwX0h3VmFldXJKU3FSSXlhN2k1Qkh1Q3M3eUxVSVRqdlhtSEY0RG50Mld4SUlSVUJQRGdiVUZEdzk5OGZraVhXOVBha1gtOTFDVGNYelRFME5CaF91Z2RvNlJRQlZXMFZfTnJMWU5W?oc=5",
+        "date": "Mon, 24 Sep 2018 07:00:00 GMT",
+        "description": "Survey: Lack of Confidence in Clinical Trial Data Delaying Drug Development&nbsp;&nbsp;Oracle"
+      },
+      {
+        "competitor": "Oracle Health Sciences",
+        "segment": "Broad Platform",
+        "focus": "Clinical data management AI",
+        "title": "Driving Your Organizations Success and Transformational Initiatives in Clinical Trials - Pharmaceutical Executive",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORG51X0I4ODdtTUZtSkNVTW9hTkxSWTVvYTRYX0lJRGIxbEtFbDBxa3dpUzFrZndVLWpYbHp5REZ5bFZuUkJjQ2RScGlSYkNabGI1VFhHUkRtbG9veWJVNmhvTVMta2ZEQmpGZTVwX2w3ZGIxWHQ2emlBcEk5c19lYU1aelRDaC1pT3cwTFY4QTQxQXJ1bWFrSVNuVUFPNDVwdGpkS3Q1YWMwSE1GWTI4bU53Z2pDdTZ5?oc=5",
+        "date": "Tue, 21 Feb 2023 08:00:00 GMT",
+        "description": "Driving Your Organizations Success and Transformational Initiatives in Clinical Trials&nbsp;&nbsp;Pharmaceutical Executive"
+      },
+      {
+        "competitor": "SAS Clinical",
+        "segment": "Broad Platform",
+        "focus": "Analytics for trial data",
+        "title": "Modernizing clinical analysis and submission with SAS\u00ae Clinical Acceleration - SAS: Data and AI Solutions",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FZG8yZ3R2SWdHNVdBOTRoQ0RsUWJlbjlFdGRXczdZQ0ZxNVBQSDZwV2xVLVlNT1U2NzlhY3d3ZnZEZjBtZ21jcHRua2ZydkgyY1llQjh0RmFsX3J4UmdNSEpmSmVCOWpxWEVwQzJwRTYzb2s?oc=5",
+        "date": "Thu, 26 Mar 2026 02:32:15 GMT",
+        "description": "Modernizing clinical analysis and submission with SAS\u00ae Clinical Acceleration&nbsp;&nbsp;SAS: Data and AI Solutions"
+      },
+      {
+        "competitor": "SAS Clinical",
+        "segment": "Broad Platform",
+        "focus": "Analytics for trial data",
+        "title": "SAS launches clinical trial analytics software built on its Viya cloud native analytics platform - drugdiscoverytrends.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM2YxQVdNTWlsV21BQ0VvaURVeVRUdjd5eWxSTldUUnlwa0N6MFJZTDdzN3VLRjlJOU1ZRTZKdEtuWW5oSnVDN013elZzckQySm5oRVJYdDl2aFk1ajVwNWhPYTBqa2RyYWNRbHMyZ1JjaDdtM01hc2NTUUZJYm92MU9fWXlLZGRfWEZ6a2VaclIydVlPRkNubFpISV96VFZ6U3hhS3RzTkVhb2w5bkF0bmhpQWlFNkpDS1R4Ykh0ZG5SMU4zM2xCeWVWWHRlQQ?oc=5",
+        "date": "Mon, 17 Nov 2025 08:00:00 GMT",
+        "description": "SAS launches clinical trial analytics software built on its Viya cloud native analytics platform&nbsp;&nbsp;drugdiscoverytrends.com"
+      },
+      {
+        "competitor": "SAS Clinical",
+        "segment": "Broad Platform",
+        "focus": "Analytics for trial data",
+        "title": "SAS Clinical Acceleration debuts to modernize clinical trials and accelerate time to market - SAS: Data and AI Solutions",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObURPMGE1RzQydjYyRllnOXlUTkhXdjVvSjVQU28wNGNEaG1tZzhaTTZfWVZNU3RheHNmWHlVSEhBQldmOUZZQVZlZmNIUmlBTko1T1Jvc2Q5c2tGNnI4ek9ZLVdhZk5heUJHdmxWa3ktdjFucldDS2ZQdEg5ZXJQSllHVUgzQllVcHBoZlVlWXg0TExNTHR6MzlTTFV5dU9IQllJWUlDVFJNck5NTjZ6akhCUFFUbmt5RkhN?oc=5",
+        "date": "Fri, 14 Nov 2025 08:00:00 GMT",
+        "description": "SAS Clinical Acceleration debuts to modernize clinical trials and accelerate time to market&nbsp;&nbsp;SAS: Data and AI Solutions"
+      },
+      {
+        "competitor": "Dassault Systemes (Biovia)",
+        "segment": "Broad Platform",
+        "focus": "Virtual trial simulations",
+        "title": "Life Sciences & Healthcare - Dassault Syst\u00e8mes",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWW80bUw5M0JHOEx1ZE5VQzgwNVJpXzZEU3hSb1NBM21BNHVxbmJ1NGxhUlA0MTY3WTEzZmNpR0tFZzBGQ0EzUTRjSmJnZ0kxNUhkNmZ2OE02SnVmMk50bEZIUWVZLXVkLVpPaTg4VkdPekkxcFhKM3NuSUd4WEpOOW9B?oc=5",
+        "date": "Tue, 18 Nov 2025 03:29:18 GMT",
+        "description": "Life Sciences & Healthcare&nbsp;&nbsp;Dassault Syst\u00e8mes"
+      },
+      {
+        "competitor": "Dassault Systemes (Biovia)",
+        "segment": "Broad Platform",
+        "focus": "Virtual trial simulations",
+        "title": "NVIDIA, Dassault Syst\u00e8mes target materials discovery, drug development and more with industrial AI platform - R&D World",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGY2RnVWYTYwSEdTUXA4U3ItRHNURHF5WURYOEZZbmd4enRWN2w1WGlCLWFIbURLRjZ1WXJwN1FMVUpfR3kteG95V2VjSGd4X0JpbU9jR0ktVWF2VFFFcUlUc1FGZ0c0d3o2TzdLTVFjbDh2QWVGQ21hTXROdkpsR3FJSHdSaWctQ3hJMjFUYWwyZ0tadjJoblZSbmdoYUo3TlVoMkN6SFpyS3pVUTJId1hZWnNDWmtFdEliMGMwYXJsUzh1NlQ1NHlCdWRrMThRM2c?oc=5",
+        "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+        "description": "NVIDIA, Dassault Syst\u00e8mes target materials discovery, drug development and more with industrial AI platform&nbsp;&nbsp;R&D World"
+      },
+      {
+        "competitor": "Dassault Systemes (Biovia)",
+        "segment": "Broad Platform",
+        "focus": "Virtual trial simulations",
+        "title": "The data fragmentation problem holding drug discovery back - Drug Target Review",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTJwbUV4U3h2M2FSOWVMbVRlQkJHT0VFc3R3LWR4WHI5TnljYUtTVDZTRFV6ck1INllFRWdCY2dWRE41WnNiZTZEa0xQbEZ3ZmkxTWJaZmNqbnpBSnhvYmpzWEx0Zm1wUnNnanhiMTFURWJFOFdXdzBUUG1OV21mX0RNU1ROT2hwNGF6QlNpNENBYzRSbTZWbWg5eDFXSUc5ZTRTejMwNlA2eWM?oc=5",
+        "date": "Mon, 05 Jan 2026 08:00:00 GMT",
+        "description": "The data fragmentation problem holding drug discovery back&nbsp;&nbsp;Drug Target Review"
+      },
+      {
+        "competitor": "Saama Technologies",
+        "segment": "Broad Platform",
+        "focus": "AI for clinical data review",
+        "title": "AI in Clinical Trials Market to Reach US$ 5.06 Billion by 2033 as - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRWRjUWlEenU4WWlURU5FOVhmYk52b29hYl9sTUpaal9KZkZtOEM2R0RneXlTdWZrTEtuSjBWSzJpTmNiSFJxOW5zZWljdDhGTEtXX2ZZVFd3Q1Y4N1VjVHZOWWlna1AyM0lRcW5lTE85ZkhXTDBzWWtoYlg0STlYUVQ0dFB4OEdpS24wS3JDc2dUQ3gwdmpJUmVQUGJnb2w2UGc?oc=5",
+        "date": "Fri, 06 Mar 2026 08:00:00 GMT",
+        "description": "AI in Clinical Trials Market to Reach US$ 5.06 Billion by 2033 as&nbsp;&nbsp;openPR.com"
+      },
+      {
+        "competitor": "Saama Technologies",
+        "segment": "Broad Platform",
+        "focus": "AI for clinical data review",
+        "title": "Harnessing AI Innovation to Modernize Clinical Trials - Inside Precision Medicine",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkNZSHdWSlhPeGdxZWdtRnJIc0tOaGxraHMxQWg3QjQ1eVExWEdRQXlrU2lJZXNaQWswbmZfbWVfV19Ma1prNmhLMWZ4T3E2aV9YVUtmeVFaZnRRNUIyQ0hlU29kMWVBTDZyZ2Zma2NOY1RKMnZqSU1nbk43OXQ4RVgwVzFfTFIxSGxDWXRSVUdGcjJwSW4tXy1qYWFPdEUzRDFVSnROeDc3VTZxZG5GMHZNMWxyZFNPRTFEUTI1T2pYdw?oc=5",
+        "date": "Thu, 12 Jun 2025 07:00:00 GMT",
+        "description": "Harnessing AI Innovation to Modernize Clinical Trials&nbsp;&nbsp;Inside Precision Medicine"
+      },
+      {
+        "competitor": "Saama Technologies",
+        "segment": "Broad Platform",
+        "focus": "AI for clinical data review",
+        "title": "Clinical Reporting and Drug Discovery: An Overview of AI\u2019s Impact in the Pandemic - Emerj Artificial Intelligence Research",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uWjB6QnBXZkYtWjZSUjVlQ2p2SXQ3bTZIZ1lreV8tM1pVYnZLX2s3ZHV5UkM2bFYtdVJmTkJUNE5udlpuTHVTcmJFRzFWbnExV1A0UnA4YzAzUjdlT3dpQnYtYXZUdUYxQnFhX2t1TllNUQ?oc=5",
+        "date": "Mon, 24 Oct 2022 07:00:00 GMT",
+        "description": "Clinical Reporting and Drug Discovery: An Overview of AI\u2019s Impact in the Pandemic&nbsp;&nbsp;Emerj Artificial Intelligence Research"
+      },
+      {
+        "competitor": "Evidera",
+        "segment": "Broad Platform",
+        "focus": "RWE and patient-reported outcomes AI",
+        "title": "Thermo Fisher, Datavant Partner to Advance Real-World Data Interoperability Across Clinical Development - Applied Clinical Trials Online",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm5zR2VUSkYtTFZnTjJ1VWxLazZ0bkdXNzJibVd1WEZmeXpqdDBTbHY0ZU1nOFVKLXhPdTdBdEdsaGxjTnREblBBMXpvMHVTczUxRXFndjV2VzItVzRRNGhBSTZmNmhoU2NHdUptVHBzZElwdW1JU1VoQVFSWjV4ZE1Za2t5X3ItN0twNzNQMVE3OXRSbHZrSjAzT1JqelhUYXlseFNfRFBUMWl6NTBNUWo5QzFkU1VGTWlYOVU3SlJyaVcyXzU3NXBMbVhGUQ?oc=5",
+        "date": "Wed, 11 Feb 2026 08:00:00 GMT",
+        "description": "Thermo Fisher, Datavant Partner to Advance Real-World Data Interoperability Across Clinical Development&nbsp;&nbsp;Applied Clinical Trials Online"
+      },
+      {
+        "competitor": "Evidera",
+        "segment": "Broad Platform",
+        "focus": "RWE and patient-reported outcomes AI",
+        "title": "Thermo Fisher Scientific And Datavant Partner To Advance Connected Real World Evidence In Clinical Research - BioPharma APAC",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMUNYampxa1ZZWTJnd0xaZnVYUlQyUllwd1NLTGNEeWh1V3lsdXpfTDBPZ0hOMjNLVDJVbHZoeTlQV080SWJHTUlRWTR3UDRVZ2UzWWRpX2xhdEdOVXh6eF9sM2NsUk0yNUxIajFGQkR2WktvTkg0OW44YmtXRlgtOUp0dm9vSFZTcVctMEVkVktBajRodHJGejJwUjhOOXVBaHhkUGZwbWN3ZEJydlhvMzYtZkxjLXBIYU1XY09Fcy14SHFRS0h2MFZ5NjhwWHpUVW9rUkxIOWhIUUdWQnNMd3NMWDNHUQ?oc=5",
+        "date": "Wed, 11 Feb 2026 23:32:26 GMT",
+        "description": "Thermo Fisher Scientific And Datavant Partner To Advance Connected Real World Evidence In Clinical Research&nbsp;&nbsp;BioPharma APAC"
+      },
+      {
+        "competitor": "Evidera",
+        "segment": "Broad Platform",
+        "focus": "RWE and patient-reported outcomes AI",
+        "title": "Real-World Data (RWD) Market Size Worth USD 6.37 Bn by 2034 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdUo1Vy1STnJxZGxCX0IzZExtQ3VtdlU5YUpOTHhlUDNkVTdEdjBhVFdZTmYxa053WWNFUkYxd1lpVldMbEhUNW84ZTZzdFJfVC02N0pmQXd6SzBhNWJVelN1SFJjM1RWS214TnRtaWh6ZzE5QjF2Tkx2NGNhVGNzdlZyM3NjLUUwQjQtbFEzQm1xbXNPMW90RVhKTG1lcWtSVTBueWY4SlFHWlV6VmF6ODVmd1JEQ3Q3SFFxbTI5MXBWMFBUNFlhWHd3R21VU2Rxa1ZBUWc2UzMyTUppai0xUWk0Yy12OHc2Y2lVSTdRMWg5emJaNzhaUDQ3VDc3WXZjUWsyTXY5QVJoTjRCRHUzTGh4d3lBNUZhNlNqYUYxOFQxN2Q2?oc=5",
+        "date": "Tue, 09 Dec 2025 08:00:00 GMT",
+        "description": "Real-World Data (RWD) Market Size Worth USD 6.37 Bn by 2034&nbsp;&nbsp;GlobeNewswire"
+      },
+      {
+        "competitor": "Deep Intelligent Pharma",
+        "segment": "Broad Platform",
+        "focus": "Multi-agent AI-native pharma R&D platform",
+        "title": "Deep Intelligent Pharma gets $50M for AI trials - bioxconomy.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOUlQaDBBQWdIVXFwaWVVMzg1ektFcHlTYVNZeml2U0kwakdZREtPN1NoZ3NwMXpRdlVxMmZnVmhWUFA5Y09MNFdDNnpZSFdRX0FRRU5SV20yQjd3WmIxSVJUNFpUNWlPLW9oSkJYTFJpajJMTENQU0h5T0FPSjdWRkdPb0tmODlDcnZXbFVrV3RjZW5hNEtVbFY0Um9sakZyR0hTOS1vS2h6U203X0RxajhHMVNjVm85RVR6MnFSd0UyQkczeEN4bFlvMWtpd2c?oc=5",
+        "date": "Mon, 05 Jan 2026 08:00:00 GMT",
+        "description": "Deep Intelligent Pharma gets $50M for AI trials&nbsp;&nbsp;bioxconomy.com"
+      },
+      {
+        "competitor": "Deep Intelligent Pharma",
+        "segment": "Broad Platform",
+        "focus": "Multi-agent AI-native pharma R&D platform",
+        "title": "Deep Intelligent Pharma Raises Another US$60 Million in New Financing Round - Pandaily",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3ZZQnRQeUxuNU5sQlVmWU1TZnVUV3V5SUJINHhuRk5SUExZbEIzamhqTXZWNnpTMDVPdllKbm5JZFdFQ1NwTklDOGgtNmU1akc2eWUyOF9ETWZxQXIwLTVIMVB0QmZQbVVFcWROZjI5QVZSM2VObm5XUm9haVJaV0VtOURxcUs5RzA4czlVWlZHMGdqc3h6Z3ZKeVM?oc=5",
+        "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+        "description": "Deep Intelligent Pharma Raises Another US$60 Million in New Financing Round&nbsp;&nbsp;Pandaily"
+      },
+      {
+        "competitor": "Deep Intelligent Pharma",
+        "segment": "Broad Platform",
+        "focus": "Multi-agent AI-native pharma R&D platform",
+        "title": "Deep Intelligent Pharma Raises Another $40 Million; Existing - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFRnMUVpbnJZb2ZFdEhpNnVTVnV0Y1lfZnd3VXZTUHc3QTNGWm1WSjVLdlY5SUpFZzYtZ3gwOHRmZnRSOGFiRkJqd1JyaFlfb2F0emU3V1NsTXZLQmlURDU0M21LY29JdkRNQmtVa0tEejc5VHd2bXVyTmQ0MHhwb3pRUmNIVXhFNmVkUGlLMWhpTDBHdm0yWXRB?oc=5",
+        "date": "Thu, 19 Mar 2026 21:10:04 GMT",
+        "description": "Deep Intelligent Pharma Raises Another $40 Million; Existing&nbsp;&nbsp;openPR.com"
+      },
+      {
+        "competitor": "Koneksa",
+        "segment": "Broad Platform",
+        "focus": "Digital biomarkers for remote trial monitoring",
+        "title": "AI In Clinical Trial Market Growth, Demand | CAGR of 28.6% - Market.us",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5MEROZFhaYjNLNkktSm5XWXRCWmUxdWRCZWJkbXN0QWtLcXFsQmxOOER0VHZVaFdza29iZVo2MlJkTkJsTzAyVTJCT2dIbm5MT3BpN2tWYUd0MXNzeTFYeUtIZw?oc=5",
+        "date": "Thu, 07 Mar 2024 09:12:32 GMT",
+        "description": "AI In Clinical Trial Market Growth, Demand | CAGR of 28.6%&nbsp;&nbsp;Market.us"
+      },
+      {
+        "competitor": "Koneksa",
+        "segment": "Broad Platform",
+        "focus": "Digital biomarkers for remote trial monitoring",
+        "title": "U.S. AI-based Clinical Trials Solution Provider Market Size to Reach USD 6.89 Bn By 2034 - BioSpace",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHVaMU51N1pyak9fRS1SS1lwYXB2YXowNWdFUU9wQzNFOGJPek1xVHI4TFJJb0pWbFRfMGFyT1pCOU9LUE0xX21JVHo2Zy02LWN5b0RHN2N4bnNTOEZSWDItMmd2VFY5RVhMWHZpam1XVUJwdThEX0hyLUNEUFBsSEotWU9fZWdIVTFKX3ExblhaMXhaTjl5MmlBOEd5VlhIVnJla0QyR0NmNnYyeDByVFBNdk9iV0U0N1FHOGYxSER6ZDdHemc?oc=5",
+        "date": "Wed, 26 Feb 2025 08:00:00 GMT",
+        "description": "U.S. AI-based Clinical Trials Solution Provider Market Size to Reach USD 6.89 Bn By 2034&nbsp;&nbsp;BioSpace"
+      },
+      {
+        "competitor": "Koneksa",
+        "segment": "Broad Platform",
+        "focus": "Digital biomarkers for remote trial monitoring",
+        "title": "Koneksa\u2019s $45 million round could help make at-home clinical trials a reality - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmVtNFhadGFGLTgxbnkwdDIzNGNPbHBXaEE5WGVCc0tHckpyN3c3ZWNLWHZiSDBubHJfaHpQTHlubVhNcXNjMkdKX0pBNExRU250eFhzb05jZ2JrZnB5d1NNUUc5SHQxUUhfd3EyRlUyOHBYcmdnS2xNTG5LQUN2VG5KU2I4Z0FjMEZuVUF6MUQtV19yMVZpWTVLQmloa1FUQjQ0Xzd3NTBaRG5Peldz?oc=5",
+        "date": "Mon, 07 Feb 2022 08:00:00 GMT",
+        "description": "Koneksa\u2019s $45 million round could help make at-home clinical trials a reality&nbsp;&nbsp;TechCrunch"
+      }
+    ]
   }
 ]
